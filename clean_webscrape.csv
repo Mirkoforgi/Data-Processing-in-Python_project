@@ -1,0 +1,717 @@
+,Availability,Brand,Name,Proof,Region,Type,Weight,Previous_price,Discount_price,Price_diff,Discount
+0,In stock,Skrewball,Skrewball Peanut Butter Whiskey 750ml,70.0,America,Whiskey,3.5 lbs,24.95,24.95,0.0,0.0
+1,Out of stock,E.H. Taylor,E.H. Taylor Small Batch Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,49.95,43.95,6.0,0.12012012012012012
+2,In stock,"Buffalo Trace, Eagle Rare",Eagle Rare Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,33.95,33.95,0.0,0.0
+5,Out of stock,Willett,Willett Family Estate Bottled 4 Year Rye 750ml,106.2,America,Rye,3.5 lbs,59.95,59.95,0.0,0.0
+6,In stock,Empress 1908,Empress 1908 Gin 750ml,85.0,Canada,Gin,3.5 lbs,29.95,26.95,3.0,0.1001669449081803
+8,In stock,Sazerac,Sazerac Rye Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,27.95,27.95,0.0,0.0
+9,In stock,Clase Azul,Tequila Clase Azul Reposado 750ml,80.0,Mexico,Tequila,7 lbs,84.95,84.95,0.0,0.0
+10,In stock,Cava De Oro,Cava De Oro Extra Anejo Tequila 750ml,76.0,Mexico,Tequila,3.5 lbs,84.95,84.95,0.0,0.0
+11,Out of stock,Woodford Reserve,Woodford Reserve 2019 20th Anniversary Kentucky Derby Bourbon Whiskey,90.4,America,Whiskey,3.5 lbs,54.95,54.95,0.0,0.0
+15,In stock,Ciroc,Ciroc Summer Watermelon Vodka,80.0,France,Vodka,3.5 lbs,26.95,26.95,0.0,0.0
+17,Out of stock,Willett,Willett Pot Still Reserve Small Batch Bourbon Whiskey,94.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+19,Out of stock,Weller,Weller Special Reserve Bourbon Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+20,In stock,Proper No Twelve,Proper No. Twelve Irish Whiskey 750ml,80.0,Ireland,Whiskey,3.5 lbs,24.95,24.95,0.0,0.0
+21,Out of stock,Weller,Old Weller Antique 107 Bourbon Whiskey 750ml,107.0,America,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+22,In stock,Remy Martin,Remy Martin Just Remy Limited Edition 1738 Sneaker Box,80.0,France,Cognac,8 lbs,59.95,59.95,0.0,0.0
+23,In stock,Bumbu Rum Co,Bumbu Rum Co Original 750ml,70.0,Barbados,Rum,3.5 lbs,34.95,34.95,0.0,0.0
+24,Out of stock,Angels Envy,Angels Envy Caribbean Rum Cask Finish Rye Whiskey,100.0,America,Whiskey,3.5 lbs,88.95,88.95,0.0,0.0
+25,In stock,Four Roses,Four Roses Small Batch Select Bourbon Whiskey,104.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+26,In stock,MB Roland,MB Roland Kentucky Straight Bourbon Whiskey 750ml,110.2,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+28,Out of stock,Crown Royal,Crown Royal Peach Whiskey,70.0,Canada,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+30,In stock,Johnnie Walker,Johnnie Walker White Walker,83.4,Scotland,Scotch,3.5 lbs,34.95,34.95,0.0,0.0
+31,Out of stock,Rebel Yell,Rebel Yell 10 Year Single Barrel Bourbon Whiskey,100.0,America,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+32,Out of stock,Hibiki,Hibiki Japanese Harmony Special Edition Whiskey,86.0,Japan,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+33,Out of stock,Tequila Dos Artes,Dos Artes Limited Edition Extra Anejo 1 Liter,80.0,Mexico,Tequila,5 lbs,144.95,144.95,0.0,0.0
+35,Out of stock,High West,High West A Midwinter Nights Dram A6S6 750ml,98.6,America,Whiskey,3.5 lbs,129.95,129.95,0.0,0.0
+36,In stock,Fortaleza,Fortaleza Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,89.95,89.95,0.0,0.0
+39,In stock,Hibiki,Hibiki Japanese Harmony Whisky 750ml,96.0,Japan,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+41,Only 3 left in stock,Blackened,Blackened American Metallica Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+42,Only 3 left in stock,Nikka,Nikka From The Barrel Whiskey 750ml,102.0,Japan,Whiskey,3.5 lbs,119.95,119.95,0.0,0.0
+43,In stock,Adictivo,Adictivo Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,49.95,49.95,0.0,0.0
+44,In stock,Adictivo,Adictivo Extra Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,88.95,88.95,0.0,0.0
+45,Out of stock,Old Ezra,Old Ezra 7 Year Bourbon Whiskey 750ml,117.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+46,Out of stock,Yamazaki,Yamazaki 12 Year Single Malt Japanese Whiskey 750ml,86.0,Japan,Whiskey,3.5 lbs,199.95,199.95,0.0,0.0
+47,In stock,Mitchers,Michters Bourbon Whiskey 750ml,91.4,America,Whiskey,3.5 lbs,33.33,33.33,0.0,0.0
+49,In stock,Angel's Envy,Angels Envy Port Barrel Finished Bourbon Whiskey,86.6,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+50,In stock,Diplomatico,Diplomatico Reserva Exclusiva Rum 750ml,80.0,Venezuela,Rum,3.5 lbs,42.95,42.95,0.0,0.0
+52,Out of stock,Willett,Willett Family Estate Bottled 3 Year Rye 750ml,100.0,America,Rye,3.5 lbs,49.95,49.95,0.0,0.0
+53,In stock,Adictivo,Adictivo Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,43.95,43.95,0.0,0.0
+54,In stock,Partida,Tequila Partida Reposado 750ml,80.0,Mexico,Tequila,3.5 lbs,45.95,32.95,13.0,0.2829162132752992
+55,In stock,Glenlivet,Glenlivet 18 Year Single Malt Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,119.95,119.95,0.0,0.0
+57,In stock,Cava De Oro,Cava De Oro Anejo Tequila 750ml,76.0,Mexico,Tequila,3.5 lbs,69.95,52.95,17.0,0.24303073624017155
+58,In stock,MB Roland,MB Roland Kentucky Dark Fired Whiskey 750ml,112.4,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+59,Only 1 left in stock,Knob Creek,Knob Creek Single Barrel Bourbon Whiskey 750ml,120.0,America,Whiskey,3.5 lbs,51.95,51.95,0.0,0.0
+60,In stock,Sugerlands Shine,Sugarlands Appalachian Strawberry Dream Sippin Cream 750ml,70.0,America,Liqueur,3.5 lbs,19.95,19.95,0.0,0.0
+61,Out of stock,Bookers,Bookers Little Book Noe Simple Task Chapter 2 Whiskey,118.8,America,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+62,In stock,Don Julio,Don Julio 1942 Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,149.95,139.95,10.0,0.06668889629876626
+63,In stock,Mitchers,Michters Sour Mash Whiskey 750ml,84.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+64,In stock,Wild Turkey,Wild Turkey American Honey Bourbon Liqueur 750ml,71.0,America,Whiskey,3.5 lbs,21.95,21.95,0.0,0.0
+65,Out of stock,"Buffalo Trace, Stagg",Stagg Jr Bourbon Whiskey 750ml,126.0,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+66,Out of stock,Blood Oath,Blood Oath Pact No 5 Bourbon Whiskey,98.6,America,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+67,In stock,Saint Lucia Distillers,Saint Lucia Distillers Chairman’s Reserve Spiced Rum 750ml,80.0,Saint Lucia,Rum,3.5 lbs,25.95,19.95,6.0,0.23121387283236994
+69,In stock,Ciroc,Ciroc Black Raspberry Vodka 750ml,70.0,France,Vodka,3.5 lbs,26.95,26.95,0.0,0.0
+70,In stock,Sugerlands Shine,Sugarlands Shine Maple Bacon Moonshine,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+71,In stock,Sugerlands Shine,Sugarlands Shine Mark Rogers Peach Moonshine,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+72,In stock,Grand Mayan,Grand Mayan Ultra Aged Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,79.95,79.95,0.0,0.0
+73,In stock,Makers Mark,Makers Mark Bourbon Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,29.95,23.99,5.960000000000001,0.19899833055091823
+74,In stock,Glenfarclas,Glenfarclas 12 Year Single Malt Scotch Whiskey Shot 50ml,96.0,Scotland,Scotch,1.5 lbs,2.95,2.95,0.0,0.0
+75,Out of stock,Dalwhinnie,Cardhu Gold Reserve Game Of Thrones House Targaryen,92.0,Scotland,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+76,Out of stock,Green Mark,Green Mark Vodka 750ml,80.0,Russia,Vodka,3.5 lbs,14.95,7.95,6.999999999999999,0.46822742474916385
+77,In stock,1792,1792 Small Batch Bourbon Whiskey 750ml,93.7,America,Whiskey,3.5 lbs,34.95,24.99,9.960000000000004,0.2849785407725323
+79,Out of stock,Dalwhinnie,Dalwhinnie Winter’s Frost Game Of Thrones House Stark,86.0,Scotland,Whiskey,3.5 lbs,64.95,64.95,0.0,0.0
+80,In stock,Appleton Estate,Appleton Estate Joy Anniversary Blend 25 Year,90.0,Jamaica,Rum,3.5 lbs,249.95,249.95,0.0,0.0
+81,In stock,Adictivo,Adictivo Black Edition Extra Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,88.95,88.95,0.0,0.0
+85,In stock,Monkey 47,Monkey 47 Schwarzwald Dry Gin 375ml,94.0,Germany,Gin,3.5 lbs,49.95,39.95,10.0,0.20020020020020018
+86,In stock,Monkey 47,Monkey 47 Schwarzwald Dry Gin 1L,94.0,Germany,Gin,3.5 lbs,81.95,81.95,0.0,0.0
+87,In stock,Hennessy,Hennessy Master Blenders Selection No 1 375ml,96.0,France,Cognac,3.5 lbs,199.95,199.95,0.0,0.0
+90,In stock,Copalli,Copalli Barrel Rested Organic Rum,88.0,Belize,Rum,3.5 lbs,37.95,37.95,0.0,0.0
+91,Only 2 left in stock,Dalwhinnie,The Singleton of Glendullan Game Of Thrones House Tully,102.4,Scotland,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+92,Out of stock,Bookers,Booker’s 2018 – 04 Kitchen Table Bourbon Whiskey,118.0,America,Whiskey,5 lbs,79.95,79.95,0.0,0.0
+93,In stock,Rebel Yell,Rebel Yell Bourbon Whiskey,80.0,America,Whiskey,3.5 lbs,12.95,12.95,0.0,0.0
+94,Out of stock,Rancho De La Luna,Rancho De La Luna Mezcal 750ml,84.0,Mexico,Tequila,3.5 lbs,48.95,48.95,0.0,0.0
+95,In stock,Gem & Bolt,Gem & Bolt Mezcal 750ml,88.0,Mexico,Tequila,3.5 lbs,36.95,24.95,12.000000000000004,0.3247631935047362
+96,In stock,Roku,Roku Japanese Gin 750ml,86.0,Japan,Gin,3.5 lbs,29.95,29.95,0.0,0.0
+98,In stock,Clase Azul,Tequila Clase Azul Plata 750ml,80.0,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+99,In stock,Hartley,Hartley VSOP Brandy 750ml,80.0,Italy,Brandy,3.5 lbs,5.95,5.95,0.0,0.0
+105,In stock,Blood Sweat Tears,Blood Sweat Tears Vodka,80.0,America,Vodka,3.5 lbs,27.95,27.95,0.0,0.0
+106,In stock,Codigo 1530,Codigo 1530 Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,49.95,49.95,0.0,0.0
+108,In stock,Old Forester,Old Forester Rye Whiskey,100.0,America,Whiskey,3.5 lbs,25.95,25.95,0.0,0.0
+110,In stock,Sugerlands Shine,Sugarlands Shine Jim Tom Hendicks Unaged Rye Moonshine 750ml,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+111,Only 2 left in stock,Sugerlands Shine,Sugarlands Shine Cole Swindell’s Peppermint Moonshine 750ml,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+112,Out of stock,Los Azulejos,Los Azulejos Love Anejo Tequila Half Gallon,80.0,Mexico,Tequila,5 lbs,159.95,159.95,0.0,0.0
+113,In stock,Foursquare Rum Distillery,Foursquare Rum Distillery 2005 Cask Strength 750ml,118.6,Barbados,Rum,3.5 lbs,89.95,89.95,0.0,0.0
+114,Only 2 left in stock,Yamazaki,Yamazaki 18 Year Single Malt Japanese Whiskey 750ml,86.0,Japan,Whiskey,3.5 lbs,999.95,999.95,0.0,0.0
+115,Out of stock,Midleton,Midleton Very Rare Vintage Release Whiskey 2017 750ml,80.0,Ireland,Whiskey,3.5 lbs,219.95,219.95,0.0,0.0
+116,In stock,Glenlivet,Glenlivet 15 Year Single Malt Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,69.95,69.95,0.0,0.0
+117,In stock,Adictivo,Adictivo Extra Anejo Cristalino Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,93.95,93.95,0.0,0.0
+122,In stock,Legent,Legent Kentucky Straight Bourbon Whiskey,94.0,America,Whiskey,3.5 lbs,42.95,42.95,0.0,0.0
+123,In stock,Balcones,Balcones Texas Pot Still Bourbon Whiskey,90.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+124,In stock,Casa Magdalena,Casa Magdalena Ron Blanco 750ml,82.5,Guatemala,Rum,3.5 lbs,29.95,21.95,8.0,0.2671118530884808
+125,In stock,Copalli,Copalli Organic White Rum,88.0,Belize,Rum,3.5 lbs,32.95,32.95,0.0,0.0
+126,Out of stock,Dalwhinnie,Clynelish Reserve Game Of Thrones House Tyrell,102.4,Scotland,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+127,Out of stock,Dalwhinnie,Royal Lochnagar 12 Year Game Of Thrones House Baratheon,92.0,Scotland,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+128,Only 2 left in stock,Dalwhinnie,Lagavulin 9 Year Game Of Thrones House Lannister,92.0,Scotland,Whiskey,3.5 lbs,119.95,119.95,0.0,0.0
+129,Out of stock,Old Forester,Old Forester Straight Bourbon Whiskey,86.0,America,Whiskey,3.5 lbs,21.95,21.95,0.0,0.0
+130,In stock,Balcones,Balcones Texas Single Malt Whiskey 750ml,106.0,America,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+131,Out of stock,Bird Dog,Bird Dog 10 Year Old Bourbon Whiskey 750ml,86.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+132,Out of stock,Parker's Heritage,Parker’s Heritage Barrel Finish 12th Edition 750ml,110.0,America,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+133,Out of stock,Octomore,Octomore 06.1 Scotch Whiskey 750ml,114.0,Scotland,Scotch,3.5 lbs,169.95,169.95,0.0,0.0
+135,In stock,Glenlivet,Glenlivet 12 Year Single Malt Scotch Whisky 750ml,80.0,Scotland,Scotch,3.5 lbs,39.95,39.95,0.0,0.0
+136,In stock,Cava De Oro,Cava De Oro Reposado Tequila 750ml,76.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+145,In stock,Cinzaro,Cinzano 1757 Rosso Vermouth,32.0,Italy,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+146,In stock,Campari,Campari Liqueur,48.0,Italy,Liqueur,3.5 lbs,26.95,26.95,0.0,0.0
+148,In stock,Firefly,Firefly Apple Pie Moonshine 750ml,60.3,America,Moonshine,3.5 lbs,18.95,18.95,0.0,0.0
+149,Out of stock,Abraham Bowman,Abraham Bowman Virginia Limited Edition Whiskey 375ml,90.0,America,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+150,In stock,Koloa Rum Company,Koloa Kauai Dark Rum 750ml,80.0,Hawaii,Rum,3.5 lbs,34.95,34.95,0.0,0.0
+151,Out of stock,Garrison Brothers,Garrison Brothers Cowboy Bourbon Whiskey 750ml,133.9,America,Whiskey,3.5 lbs,239.95,239.95,0.0,0.0
+152,In stock,Heaven's Door,Heavens Door Double Barrel Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,64.95,64.95,0.0,0.0
+153,In stock,Fortaleza,Fortaleza Blanco Still Strength Tequila 750ml,92.0,Mexico,Tequila,3.5 lbs,46.95,46.95,0.0,0.0
+154,In stock,Fortaleza,Fortaleza Blanco Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,41.95,41.95,0.0,0.0
+155,In stock,Mitchers,Michters Straight Rye Whiskey 750ml,84.8,America,Whiskey,3.5 lbs,33.33,33.33,0.0,0.0
+156,In stock,Cava De Oro,Cava De Oro Plata Tequila 750ml,76.0,Mexico,Tequila,3.5 lbs,36.95,36.95,0.0,0.0
+159,In stock,Skelly,Los Azulejos Skelly Mustache Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+163,Only 2 left in stock,Kentucky Owl,Kentucky Owl Confiscated Bourbon Whiskey,96.4,America,Whiskey,3.5 lbs,159.95,159.95,0.0,0.0
+165,Out of stock,Chichibu,Chichibu Ichiro’s Cask #646 Single Malt Whiskey,121.2,Japan,Whiskey,3.5 lbs,799.95,799.95,0.0,0.0
+167,Out of stock,Woodford Reserve,Woodford Reserve 2018 Kentucky Derby Bourbon Whiskey,90.4,America,Whiskey,3.5 lbs,54.95,54.95,0.0,0.0
+168,In stock,Tempus Fugit,Tempus Fugit Creme De Cacao,48.0,Switzerland,Liqueur,3.5 lbs,39.95,39.95,0.0,0.0
+169,In stock,Firefly,Firefly Peach Moonshine 750ml,60.3,America,Moonshine,3.5 lbs,18.95,18.95,0.0,0.0
+170,In stock,Atlantico,Ron Atlantico Rum Reserva,80.0,Dominican Republic,Rum,3.5 lbs,25.95,25.95,0.0,0.0
+171,In stock,Purity,Purity Vodka 51 Times Distilled,80.0,Sweden,Vodka,3.5 lbs,27.95,27.95,0.0,0.0
+172,Out of stock,Jameson,Jameson Bow Street 18 Year Irish Whiskey 750ml,110.6,Ireland,Whiskey,4 lbs,179.95,179.95,0.0,0.0
+173,In stock,Sugerlands Shine,Sugarlands Shine Patti’s Wild Mayhaw Moonshine 750ml,55.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+175,In stock,New Zealand Whiskey Collection,New Zealand Whiskey Collection Dunedin DoubleWood 16 Year 375ml,96.0,New Zealand,Whiskey,3.5 lbs,99.99,99.99,0.0,0.0
+176,In stock,Denizen,Denizen Merchant’s Reserve 750ml,86.0,Amsterdam,Rum,3.5 lbs,29.95,29.95,0.0,0.0
+177,In stock,Sugerlands Shine,Sugarlands Shine Pina Colada Moonshine 750ml,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+178,Out of stock,Four Roses,Four Roses Limited Edition 130th Anniversary Whiskey,108.54,America,Whiskey,3.5 lbs,299.95,299.95,0.0,0.0
+179,In stock,Los Azulejos,Los Azulejos Skelly Talavera Head Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,79.95,79.95,0.0,0.0
+180,In stock,Macallan,Macallan Edition No.4 Scotch 750ml,96.6,Scotland,Scotch,3.5 lbs,124.95,124.95,0.0,0.0
+181,In stock,Chinaco Tequila,Chinaco Tequila Blanco 750ml,80.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+182,In stock,Tequila Dos Artes,Tequila Dos Artes Extra Anejo Reserva Especial 750ml,80.0,Mexico,Tequila,3.5 lbs,119.95,119.95,0.0,0.0
+183,In stock,Don Alberto,Gran Reserva de Don Alberto Extra Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,79.95,79.95,0.0,0.0
+184,In stock,Australian Bitters Company,Australian Bitters Company Coffee Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+185,In stock,Australian Bitters Company,Australian Bitters Company Orange Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+186,In stock,Clase Azul,Tequila Clase Azul Añejo 750ml,80.0,Mexico,Tequila,3.5 lbs,499.95,499.95,0.0,0.0
+187,Out of stock,Joseph Magnus,Joseph Magnus Cigar Blend Bourbon 750ml,113.88,America,Whiskey,3.5 lbs,269.95,269.95,0.0,0.0
+188,Out of stock,Mitchers,Michters Toasted Barrel Finish Bourbon Whiskey,91.4,America,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+189,In stock,Wild Turkey,Wild Turkey 101 Bourbon Whiskey 750ml,101.0,America,Whiskey,3.5 lbs,21.95,16.99,4.960000000000001,0.22596810933940778
+190,In stock,Remy Martin,Remy Martin XO Cognac 750ml,80.0,France,Cognac,3.5 lbs,219.95,219.95,0.0,0.0
+191,Out of stock,Octomore,Octomore 8.1 Scotch Whiskey 750ml,118.6,Scotland,Scotch,3.5 lbs,179.95,179.95,0.0,0.0
+192,In stock,1792,1792 Bottled In Bond Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+193,Out of stock,Macallan,Macallan Edition No.3 Scotch 750ml,96.6,Scotland,Scotch,3.5 lbs,129.95,129.95,0.0,0.0
+194,In stock,Nikka,Nikka Yoichi Single Malt Whiskey 750ml,90.0,Japan,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+195,Out of stock,E.H. Taylor,E.H. Taylor Straight Rye Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+197,In stock,Remy Martin,Remy Martin 1738 Cognac 750ml,80.0,France,Cognac,3.5 lbs,62.95,62.95,0.0,0.0
+209,In stock,Alexander Murray,Alexander Murray Glentauchers 17 Year 1996 Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,104.95,104.95,0.0,0.0
+210,In stock,Hendricks,Hendricks Gin 750ml,88.0,Scotland,Gin,3.5 lbs,29.95,29.95,0.0,0.0
+211,In stock,Espolon,Espolon Blanco Tequila,80.0,Mexico,Tequila,3.5 lbs,19.95,19.95,0.0,0.0
+212,In stock,Bulldog Gin,Bulldog London Dry Gin,80.0,England,Gin,3.5 lbs,29.95,29.95,0.0,0.0
+213,Out of stock,mezcalero,Mezcalero Special Bottling No2 Mezcal,94.8,Mexico,Mezcal,3.5 lbs,149.95,149.95,0.0,0.0
+214,In stock,Jameson,Jameson Black Barrel Irish Whiskey,80.0,Ireland,Whiskey,3 lbs,29.95,29.95,0.0,0.0
+215,In stock,Powers,Powers Gold Label Irish Whiskey,86.4,Ireland,Whiskey,3.5 lbs,34.95,34.95,0.0,0.0
+216,Out of stock,Cream Off Kentucky,Cream Of Kentucky Bourbon Whiskey,102.0,America,Whiskey,3.5 lbs,199.95,199.95,0.0,0.0
+217,In stock,Blue Chair Bay,Blue Chair Bay Banana Rum,53.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+218,In stock,Blue Chair Bay,Blue Chair Bay Spcied Rum,70.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+219,In stock,Blue Chair Bay,Blue Chair Bay Rum Banana Cream Rum,30.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+220,Only 1 left in stock,Rey Sol,Rey Sol Extra Anejo Tequila,80.0,Mexico,Tequila,5 lbs,299.95,299.95,0.0,0.0
+221,Out of stock,Corazon,Corazon Expresiones Buffalo Trace Old 22 Anejo Tequila,80.0,Mexico,Tequila,3.5 lbs,89.95,89.95,0.0,0.0
+222,Out of stock,Corazon,Corazon Expresiones George T Stagg Anejo Tequila,80.0,Mexico,Tequila,3.5 lbs,89.95,89.95,0.0,0.0
+223,In stock,Mandarine Napoleon,Mandarine Napoleon Liqueur 375ml,76.0,America,Liqueur,3.5 lbs,23.95,23.95,0.0,0.0
+224,In stock,Firefly,Firefly Cherry Moonshine 750ml,60.3,America,Moonshine,3.5 lbs,18.95,18.95,0.0,0.0
+225,In stock,Aviation,Aviation American Gin 750ml,84.0,America,Gin,3.5 lbs,21.95,21.95,0.0,0.0
+226,In stock,Uncle Nearest,Uncle Nearest 1856 Whiskey,100.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+227,Out of stock,Russell's Reserve,Russell’s Reserve 2002 Bourbon Whiskey 750ml,114.6,America,Whiskey,4 lbs,599.95,599.95,0.0,0.0
+228,Out of stock,Orphan Barrel,Orphan Barrel Rhetoric 23 Year Bourbon Whiskey 750ml,90.6,America,Whiskey,3.5 lbs,199.95,199.95,0.0,0.0
+229,Only 3 left in stock,Aberlour,Aberlour A’Bunadh Scotch Whiskey 750ml,68.0,Scotland,Scotch,3.5 lbs,99.95,99.95,0.0,0.0
+230,In stock,Sugerlands Shine,Sugarlands Shine Butterscotch Gold Moonshine 750ml,40.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+231,In stock,Sugerlands Shine,Sugarlands Shine Appalachian Apple Pie Moonshine 750ml,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+232,In stock,Glenfarclas,Glenfarclas Highland Single Malt Scotch Whiskey 17 Year 750ml,86.0,Scotland,Whiskey,3.5 lbs,79.99,79.99,0.0,0.0
+233,In stock,Koloa Rum Company,Koloa Kauai Coconut Rum 750ml,80.0,Hawaii,Rum,3.5 lbs,39.99,39.99,0.0,0.0
+234,Out of stock,Greenbar Distillery,Greenbar Distillery Crusoe Spiced Rum 750ml,80.0,United States,Rum,3.5 lbs,29.95,29.95,0.0,0.0
+235,Out of stock,1792,1792 High Rye Bourbon Whiskey 750ml,94.3,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+236,Out of stock,Foursquare Rum Distillery,Foursquare Rum Distillery Premise 750ml,92.0,Barbados,Rum,3.5 lbs,69.95,69.95,0.0,0.0
+237,In stock,Deadhead,Deadhead Rum 750ml,80.0,Mexico,Rum,3.5 lbs,35.95,35.95,0.0,0.0
+238,In stock,Clase Azul,Mezcal Clase Azul 750ml,88.0,Mexico,Tequila,3.5 lbs,229.95,229.95,0.0,0.0
+239,Out of stock,Mitchers,Michters 10 Year Straight Rye Whiskey 750ml,91.4,America,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+240,In stock,Redbreast,Redbreast 12 Year Cask Strength Edition Whiskey 750ml,116.0,Ireland,Whiskey,3.5 lbs,72.95,72.95,0.0,0.0
+241,Out of stock,Midleton,Midleton Dair Ghaelach Single Pot Still Irish Whiskey 116.4 Proof 750ml,116.4,Ireland,Whiskey,3.5 lbs,299.95,180.0,119.94999999999999,0.39989998333055504
+242,Only 3 left in stock,1792,1792 Full Proof Bourbon Whiskey 750ml,125.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+243,In stock,1792,1792 Single Barrel Bourbon Whiskey 750ml,98.6,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+244,In stock,Macallan,Macallan Fine Oak 10 Years Scotch 750ml,80.0,Scotland,Scotch,3.5 lbs,54.95,54.95,0.0,0.0
+245,Out of stock,Macallan,Macallan Fine Oak 15 Years Scotch 750ml,86.0,Scotland,Scotch,3.5 lbs,149.95,149.95,0.0,0.0
+246,In stock,Lot 40,Lot 40 Canadian Rye Whiskey 750ml,86.0,Canada,Whiskey,3.5 lbs,49.95,39.99,9.96,0.1993993993993994
+247,Out of stock,"Buffalo Trace, Weller",Weller 12 Year Bourbon Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+248,Out of stock,E.H. Taylor,E.H. Taylor Single Barrel Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+253,In stock,Makers Mark,Makers 46 Bourbon Whiskey 750ml,94.0,America,Whiskey,3.5 lbs,33.95,33.95,0.0,0.0
+254,In stock,Cava De Oro,Cava De Oro Extra Anejo Cristalino Tequila 750ml,76.0,Mexico,Tequila,3.5 lbs,89.95,89.95,0.0,0.0
+265,In stock,Corazon,Corazon Single Barrel Blanton’s Anejo Tequila Barrel Pick,80.0,Mexico,Tequila,3.5 lbs,34.95,34.95,0.0,0.0
+267,In stock,Old 49,Old 49 California Whiskey 750ml,80.0,America,Vodka,3.5 lbs,39.95,39.95,0.0,0.0
+268,In stock,Old 49,Nat Kidder Navy Strength Vodka 750ml,90.0,America,Vodka,3.5 lbs,24.95,24.95,0.0,0.0
+269,In stock,Gin Mare,Gin Mare Mediterranean Gin 750ml,85.4,Spain,Gin,3.5 lbs,34.95,34.95,0.0,0.0
+270,In stock,Edinburgh,Edinburgh Gin Rhubarb & Ginger Liqueur,40.0,Scotland,"Gin, Liqueur",3.5 lbs,29.95,29.95,0.0,0.0
+271,Only 1 left in stock,Hine,Hine Rare VSOP Cognac,80.0,France,Cognac,3.5 lbs,62.49,49.95,12.54,0.20067210753720593
+272,In stock,Sagamore Spirit,Sagamore Spirit Double Oak Rye Whiskey 750ml,96.6,America,Whiskey,3.5 lbs,64.96,64.96,0.0,0.0
+273,Out of stock,Longrow,Longrow 14 Year Sherry Cask Scotch Whiskey,115.6,Scotland,Scotch,3.5 lbs,179.95,179.95,0.0,0.0
+274,Out of stock,Springbank,Springbank 2007 11 Year Refill Sauternes Single Cask,114.4,Scotland,Scotch,3.5 lbs,189.95,189.95,0.0,0.0
+275,Out of stock,Willett,Willett Straight Rye 6 Year Whiskey,112.0,America,Whiskey,3.5 lbs,399.95,399.95,0.0,0.0
+276,In stock,Dopo Teatro,Cocchi Vermouth Di Torino 500ml,32.0,Italy,Vermouth,3.5 lbs,21.95,21.95,0.0,0.0
+277,Out of stock,Siete Misterios,Siete Misterios Doba-Yej Mezcal 2016,88.0,Mexico,Mezcal,3.5 lbs,45.95,45.95,0.0,0.0
+278,In stock,The Irishman,The Irishman Single Malt 12 Year Irish Whiskey,86.0,Ireland,Whiskey,3.5 lbs,67.95,67.95,0.0,0.0
+279,Out of stock,Jack Daniels,Jack Daniels Single Barrel Heritage Whiskey,100.0,America,Whiskey,3.5 lbs,129.95,129.95,0.0,0.0
+280,In stock,Garrison Brothers,Garrison Brothers Single Barrel Bourbon Whiskey,94.0,America,Whiskey,3.5 lbs,114.95,114.95,0.0,0.0
+281,In stock,Garrison Brothers,Garrison Brothers Small Batch 750ml,94.0,America,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+282,In stock,Henderson,Henderson Blended Whiskey 750ml,80.0,America,Whiskey,3.5 lbs,9.95,9.95,0.0,0.0
+283,Out of stock,Old Forester,Old Forester Birthday Bourbon 2018,101.0,America,Whiskey,3.5 lbs,499.95,499.95,0.0,0.0
+284,In stock,Bowman Brothers,John J Bowman Single Barrel Bourbon Whiskey 750ml,100.0,United States,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+285,In stock,Old Forester,Old Forester 1897 Bottled In Bond Bourbon Whiskey,100.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+286,Out of stock,Kilchoman,Kilchoman 2018 Sauternes Cask Finished Single Malt Scotch 750ml,100.0,Scotland,Scotch,3.5 lbs,107.95,107.95,0.0,0.0
+287,Only 3 left in stock,Gustoso,Gustoso Aguardiente Rum Blanco 750ml,80.0,Mexico,Rum,3.5 lbs,23.95,23.95,0.0,0.0
+288,In stock,Real Minero,Real Minero Largo Mezcal 750ml,95.6,Mexico,Mezcal,3.5 lbs,183.95,183.95,0.0,0.0
+289,In stock,Mahon,Mahon Gin 750ml,82.0,Spain,Gin,3.5 lbs,39.95,39.95,0.0,0.0
+290,In stock,Macallan,Macallan Classic Cut 2018 Single Malt Scotch Whiskey,102.4,Scotland,Scotch,3.5 lbs,99.95,99.95,0.0,0.0
+292,Out of stock,OMAR,Omar Taiwanese Single Malt Bourbon Barrel Whiskey,92.0,Taiwan,Bourbon,3.5 lbs,78.95,78.95,0.0,0.0
+293,In stock,Lepanto,Lepanto Brandy Pedro Ximenez Solera Gran Reserva,80.0,Spain,Brandy,3.5 lbs,66.95,66.95,0.0,0.0
+294,Only 2 left in stock,Usquaebach,Usquaebach Old Rare Flagon Blended Scotch Whiskey,96.0,Scotland,Whiskey,3.5 lbs,129.95,129.95,0.0,0.0
+296,In stock,Del Maguey,Del Maguey Chichicapa Mezcal 750ml,96.0,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+298,In stock,Double Cross,Double Cross Vodka 750ml,80.0,Slovak Republic,Vodka,3.5 lbs,34.95,34.95,0.0,0.0
+300,In stock,Bowman Brothers,Bowman Brothers Small Batch Whiskey 750ml,90.0,United States,Whiskey,3.5 lbs,32.99,32.99,0.0,0.0
+301,In stock,Kentucky Owl,Woodford Reserve Oat Grain Bourbon 750ml,90.0,America,Whiskey,3.5 lbs,199.95,129.95,70.0,0.35008752188047015
+302,In stock,Kavalan,Kavalan Single Barrel Port Cask Strength – Uptown Spirits Barrel Pick,117.2,Taiwan,Whiskey,3.5 lbs,269.95,269.95,0.0,0.0
+303,In stock,High West,High West Double Rye 750ml,92.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+304,Only 2 left in stock,High West,High West Campfire 750ml,92.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+305,In stock,Sugerlands Shine,Sugarlands Shine Southern Sweet Tea Moonshine 750ml,40.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+306,In stock,Smooth Ambler,Smooth Ambler Big Level Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,57.99,57.99,0.0,0.0
+307,Out of stock,Templeton,Templeton Rye 10 Year Special Reserve Rye Whiskey 750ml,101.0,America,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+308,Only 3 left in stock,Midleton,Midleton Barry Crockett Legacy Whiskey 750ml,92.0,Ireland,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+309,In stock,Koloa Rum Company,Koloa Kauai Coffee 750ml,68.0,Hawaii,Rum,3.5 lbs,34.95,34.95,0.0,0.0
+310,In stock,Koloa Rum Company,Koloa Kauai White Rum 750ml,80.0,Hawaii,Rum,3.5 lbs,31.95,31.95,0.0,0.0
+311,In stock,Jeffersons,Jefferson’s Twin Oak Custom Barrel Bourbon Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,78.95,78.95,0.0,0.0
+313,Only 1 left in stock,Bond & Lillard Kentucky Bourbon Whiskey,Bond & Lillard Kentucky Bourbon Whiskey 375ml,100.0,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+314,Only 1 left in stock,Old Ripy,Old Ripy Kentucky Bourbon Whiskey 375ml,104.0,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+315,In stock,Diplomatico,Diplomatico Manturo Rum 750ml,80.0,Venezuela,Rum,3.5 lbs,26.95,26.95,0.0,0.0
+316,In stock,Balvenie,Balvenie Doublewood 12 Year Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,59.95,59.95,0.0,0.0
+317,In stock,Sugerlands Shine,Sugarlands Shine Butter Pecan Sipping Cream,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+318,In stock,Ron Zacapa,Ron Zacapa Centenario Sistema Solera 23 750ml,80.0,Guatemala,Rum,3.5 lbs,49.95,49.95,0.0,0.0
+319,Out of stock,Kavalan,Kavalan Solist Vinho Barrique Cask Strength Whiskey,112.6,Taiwan,Whiskey,3.5 lbs,259.95,259.95,0.0,0.0
+320,In stock,Brinley Gold Shipwreck,Brinley Gold Shipwreck Coconut Cream 750ml,30.0,Saint Kitts,Rum,3.5 lbs,27.95,27.95,0.0,0.0
+322,In stock,The Real McCoy,The Real McCoy 10 Year Limited Edition Rum 750ml,92.0,Barabados,Rum,3.5 lbs,69.95,69.95,0.0,0.0
+323,In stock,Clairin,Clairin Casimir Rum 750ml,102.2,Haiti,Rum,3.5 lbs,45.95,45.95,0.0,0.0
+324,In stock,Los Azulejos,Los Azulejos Skelly Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,50.95,50.95,0.0,0.0
+325,In stock,Jameson,Jameson Caskmates IPA Edition Irish Whiskey 750ml,80.0,Ireland,Whiskey,3.5 lbs,27.95,27.95,0.0,0.0
+326,In stock,Redbreast,Redbreast 15 Year Irish Whiskey 750ml,92.0,Ireland,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+327,In stock,Redbreast,Redbreast 21 Year Irish Whiskey 750ml,92.0,Ireland,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+328,In stock,Wild Turkey,Wild Turkey Master’s Keep Revival Bourbon Whiskey 750ml,101.0,America,Whiskey,3.5 lbs,169.95,169.95,0.0,0.0
+329,In stock,Bruichladdich,Bruichladdich Islay Barley 2010 Scotch Whiskey 750ml,100.0,Scotland,Scotch,3.5 lbs,54.95,54.95,0.0,0.0
+330,In stock,Glenfiddich,Glenfiddich 18 Year Old Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,99.95,99.95,0.0,0.0
+331,Out of stock,Octomore,Octomore Edition 07.3 Whiskey 750ml,126.0,Scotland,Scotch,3.5 lbs,179.95,179.95,0.0,0.0
+332,In stock,Compass Box,Compass Box Peat Monster Blended Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,49.95,49.95,0.0,0.0
+333,Out of stock,Jim Beam,Jim Beam Distillers Masterpiece Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,199.95,199.95,0.0,0.0
+334,In stock,Highland Park,Highland Park 12 Years Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,59.95,59.95,0.0,0.0
+335,Out of stock,Macallan,Macallan Fine Oak 18 Years Scotch 750ml,86.0,Scotland,Scotch,3.5 lbs,319.95,299.99,19.95999999999998,0.06238474761681507
+336,In stock,Nikka,Nikka Coffey Malt Whiskey 750ml,90.0,Japan,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+337,In stock,Nikka,Nikka Miyagikyo Single Malt Whiskey 750ml,90.0,Japan,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+338,In stock,Adictivo,Adictivo Plata Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,36.95,36.95,0.0,0.0
+352,In stock,Los Azulejos,Los Azulejos Skelly Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+360,In stock,Jack Daniels,Jack Daniels Tennessee Tasters Hickory Smoked Whiskey 375ml,100.0,America,Whiskey,3.5 lbs,37.95,37.95,0.0,0.0
+361,In stock,Hazelburn,Hazelburn 14 Year Oloroso Single Malt Scotch Whiskey,98.6,Scotland,Scotch,3.5 lbs,149.95,149.95,0.0,0.0
+363,In stock,Balcones,Balcones Brimstone Smoked Whiskey,106.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+364,In stock,Jose Cuervo,Jose Cuervo De La Familia Extra Anejo Tequila,80.0,Mexico,Tequila,5 lbs,134.95,134.95,0.0,0.0
+365,Out of stock,Compass Box,Compass Box Limited Edition Tobias & Angel,95.2,Scotland,Whiskey,5 lbs,899.95,899.95,0.0,0.0
+366,In stock,El Mayor,El Mayor Extra Anejo Tequila,80.0,Mexico,Tequila,3.5 lbs,88.95,88.95,0.0,0.0
+367,In stock,Tom Of Finland,Tom Of Finland Organic Vodka,80.0,Finland,Vodka,3.5 lbs,36.95,36.95,0.0,0.0
+368,In stock,Edinburgh,Edinburgh Gin Raspberry Liqueur,40.0,Scotland,"Gin, Liqueur",3.5 lbs,29.95,29.95,0.0,0.0
+369,In stock,Edinburgh,Edinburgh Elderflower Liqueur,40.0,Scotland,"Gin, Liqueur",3.5 lbs,29.95,29.95,0.0,0.0
+370,In stock,Auchentoshan,Auchentoshan American Oak Single Malt Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,38.95,38.95,0.0,0.0
+371,In stock,Codigo 1530,Codigo 1530 Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,119.95,119.95,0.0,0.0
+372,In stock,Knob Creek,Knob Creek Cask Strength Rye Whiskey,119.6,America,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+373,In stock,Martell,Martell VSOP Aged In Red Barrels Cognac,80.0,France,Cognac,3.5 lbs,54.95,54.95,0.0,0.0
+374,Only 3 left in stock,Yellowstone,Yellowstone 2018 Limited Edition Bourbon Whiskey,101.0,America,Whiskey,3.5 lbs,129.95,129.95,0.0,0.0
+375,Out of stock,Springbank,Springbank 2003 15 Year Guyanan Rum Single Cask,114.8,Scotland,Scotch,3.5 lbs,229.95,229.95,0.0,0.0
+376,Only 1 left in stock,Hazelburn,Hazelburn 15 Year Single Cask Scotch Whiskey,113.2,Scotland,Scotch,3.5 lbs,219.95,219.95,0.0,0.0
+377,Out of stock,Talisker,Talisker 18 Year Scotch Whiskey,91.8,Scotland,Scotch,3.5 lbs,199.95,199.95,0.0,0.0
+378,In stock,Kalani,Kalani Coconut Liqueur,60.0,Mexico,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+379,In stock,Giffard,Giffard Banane Du Bresil Liqueur,50.0,France,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+380,Only 1 left in stock,Bunnahabhain,Bunnahabhain 25 Year Scotch Whiskey,92.6,Scotland,Scotch,5 lbs,749.95,749.95,0.0,0.0
+382,In stock,Bunnahabhain,Bunnahabhain Toiteach A Dha Peated Scotch Whiskey,92.6,Scotland,Scotch,3.5 lbs,87.95,87.95,0.0,0.0
+383,In stock,Rabbit Hole,Rabbit Hole PX Sherry Cask Straight Bourbon Whiskey,93.0,America,Whiskey,3.5 lbs,78.95,78.95,0.0,0.0
+385,Only 1 left in stock,mezcalero,Mezcalero No 15 Mezcal,94.5,Mexico,Mezcal,3.5 lbs,99.95,99.95,0.0,0.0
+386,Only 2 left in stock,Rancho Tepua,Rancho Tepua Bacanora Blanco,95.0,Mexico,Mezcal,3.5 lbs,54.95,54.95,0.0,0.0
+387,Only 1 left in stock,Siete Misterios,Siete Misterios Mexicano Mezcal 2015,95.6,Mexico,Mezcal,3.5 lbs,99.95,99.95,0.0,0.0
+388,Out of stock,Siete Misterios,Siete Misterios Tobala Mezcal 2016,98.6,Mexico,Mezcal,3.5 lbs,149.95,149.95,0.0,0.0
+389,In stock,The Tyrconnell,The Tyrconnell Single Malt Irish Whiskey,86.0,Ireland,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+390,In stock,Jameson,Jameson Caskmates Stout Edition Irish Whiskey,80.0,Ireland,Whiskey,3.5 lbs,27.95,27.95,0.0,0.0
+392,In stock,Lemon Hart & Son,Lemon Hart 151 750ml,151.0,Guyana,Rum,3.5 lbs,39.99,39.99,0.0,0.0
+393,In stock,Ron Abuelo,Ron Abuelo Anejo 750 ml,80.0,Panama,Rum,3.5 lbs,19.99,19.99,0.0,0.0
+394,In stock,Smith & Cross,Smith & Cross Traditional Jamaican Rum 750ml,114.0,London,Rum,3.5 lbs,36.99,36.99,0.0,0.0
+395,In stock,Writers Tears,Writers Tears Copper Pot Irish Whiskey Gift Set,80.0,Ireland,Whiskey,5 lbs,31.95,31.95,0.0,0.0
+396,In stock,The Irishman,The Irishman Single Malt Small Batch Irish Whiskey,80.0,Ireland,Whiskey,3.5 lbs,45.95,45.95,0.0,0.0
+397,In stock,The Irishman,The Irishman Founder’s Reserve Whiskey,80.0,Ireland,Whiskey,3.5 lbs,26.95,26.95,0.0,0.0
+398,Out of stock,Jameson,Jameson Rarest Vintage Reserve 1780 Irish Whiskey,92.0,Ireland,Whiskey,5 lbs,499.95,499.95,0.0,0.0
+399,In stock,Noah's Mill,Noahs Mill Small Batch Bourbon Whiskey,114.3,America,Whiskey,3.5 lbs,59.95,54.95,5.0,0.08340283569641367
+400,Only 1 left in stock,Willett,Willett Family Estate 5 Year Single Barrel Bourbon Whiskey,127.8,America,Whiskey,3.5 lbs,599.95,599.95,0.0,0.0
+401,In stock,Macallan,Macallan 12 Years Sherry Oak Scotch Shot 50ml,86.0,Scotland,Scotch,1.5 lbs,8.95,8.95,0.0,0.0
+402,In stock,Glenfiddich,Glenfiddich 12 Year Old Scotch Whiskey Shot 50ml,80.0,Scotland,Scotch,1.5 lbs,4.95,4.95,0.0,0.0
+403,In stock,Johnnie Walker,Johnnie Walker Blue Label Shot 50ml,80.0,Scotland,Scotch,1.5 lbs,24.95,24.95,0.0,0.0
+404,In stock,Woodinville,Woodinville Straight Rye Whiskey,90.0,America,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+405,In stock,Woodinville,Woodinville Straight Bourbon Whiskey,90.0,America,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+406,In stock,Blue Chair Bay,Blue Chair Bay Vanilla Rum,53.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+407,In stock,Blue Chair Bay,Blue Chair Bay Coconut Rum,53.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+408,In stock,Blue Chair Bay,Blue Chair Bay White Rum,70.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+409,In stock,Laphroaig,Laphroaig 10 Year Scotch Whiskey,86.0,Scotland,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+410,In stock,Highland Park,Highland Park Valknut Scotch Whiskey,93.6,Scotland,Scotch,3.5 lbs,84.95,84.95,0.0,0.0
+411,Out of stock,Dalwhinnie,Oban Little Bay Reserve Game Of Thrones The Nights Watch,86.0,Scotland,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+413,In stock,Bowman Brothers,Isaac Bowman Port Barrel Finished Bourbon Whiskey 750ml,92.0,United States,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+414,Only 2 left in stock,Corazon,Corazon Expresiones Sazerac Rye Anejo Tequila,90.0,Mexico,Tequila,3.5 lbs,89.95,89.95,0.0,0.0
+415,In stock,Old Forester,Old Forester 1920 Prohibition Style Bourbon Whiskey,115.0,America,Whiskey,3.5 lbs,64.95,64.95,0.0,0.0
+416,In stock,Pierre Ferrand,Pierre Ferrand Dry Curacao,80.0,France,Liqueur,3.5 lbs,34.95,34.95,0.0,0.0
+417,In stock,Manana,Manana Anejo Tequila,80.0,Mexico,Tequila,3.5 lbs,54.95,54.95,0.0,0.0
+418,In stock,Benedictine,Benedictine D.O.M Liqueur,80.0,France,Liqueur,3.5 lbs,39.95,39.95,0.0,0.0
+419,In stock,Tempus Fugit,Tempus Fugit Spirits Creme De Menthe,56.0,Switzerland,Liqueur,3.5 lbs,39.95,39.95,0.0,0.0
+420,In stock,Tempus Fugit,Tempus Fugit Creme De Noyaux,48.0,Switzerland,Liqueur,3.5 lbs,39.95,39.95,0.0,0.0
+421,In stock,Firefly,Firefly Blackberry Moonshine 750ml,60.3,America,Moonshine,3.5 lbs,18.95,18.95,0.0,0.0
+422,In stock,Firefly,Firefly Strawberry Moonshine 750ml,60.3,America,Moonshine,3.5 lbs,18.95,18.95,0.0,0.0
+423,In stock,Four Roses,Four Roses Small Batch Straight Bourbon Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+424,In stock,Uruapan,Uruapan Charanda Rum Blanco 750ml,92.0,Mexico,Rum,3.5 lbs,27.95,27.95,0.0,0.0
+425,In stock,Selvarey Rum,Selvarey White Rum,80.0,Panama,Rum,3.5 lbs,22.95,22.95,0.0,0.0
+426,Only 3 left in stock,Usquaebach,Usquaebach Cask Strength 2016 Release Blended Malt Scotch Whiskey,114.2,Scotland,Whiskey,5 lbs,219.95,219.95,0.0,0.0
+427,Out of stock,Lagavulin,Lagavulin Distillers Edition Scotch Whiskey,96.0,Scotland,Scotch,3.5 lbs,139.95,139.95,0.0,0.0
+428,Out of stock,Lagavulin,Lagavulin 200th Anniversary 12 Year Scotch Whiskey,115.4,Scotland,Scotch,3.5 lbs,169.95,169.95,0.0,0.0
+431,Only 3 left in stock,Templeton,Templeton Rye Limited Edition Barrel Strength Whiskey,114.4,America,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+432,In stock,Siete Leguas,Siete Leguas Tequila Resposado 750ml,80.0,Mexico,Tequila,3.5 lbs,54.99,54.99,0.0,0.0
+433,Out of stock,Balvenie,Balvenie Single Barrel Traditional Oak 25 Year Scotch Whiskey 750ml,95.2,Scotland,Scotch,3.5 lbs,749.99,749.99,0.0,0.0
+434,In stock,Belle Meade,Belle Meade Cask Strength Reserve Bourbon Whiskey 750ml,110.0,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+435,Only 1 left in stock,Glenmorangie,Glenmorangie Nectar D’Or 12 Year Scotch Whiskey 750ml,92.0,Scotland,Scotch,3.5 lbs,89.95,89.95,0.0,0.0
+437,In stock,Young & Yonder Spirits,Fellows & Foragers Absinthe 750ml,120.0,America,Absinthe,3.5 lbs,44.95,44.95,0.0,0.0
+438,In stock,Young & Yonder Spirits,Armont Vodka 750ml,80.0,America,Vodka,3.5 lbs,31.95,31.95,0.0,0.0
+439,Out of stock,Paddy,Paddy Bee Sting Irish Honey Whiskey 750ml,70.0,Ireland,Whiskey,3.5 lbs,17.95,17.95,0.0,0.0
+440,In stock,Beefeater,Beefeater Pink Gin 750ml,80.0,London,Gin,3.5 lbs,16.99,16.99,0.0,0.0
+442,Out of stock,E.H. Taylor,Colonel EH Taylor Four Grain Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,599.95,599.95,0.0,0.0
+443,In stock,High West,High West American Prairie Bourbon Whiskey 750ml,92.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+444,In stock,High West,High West Bourye Whiskey 2017 Edition 750ml,92.0,America,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+445,In stock,High West,Yippee Ki-Yay 2018 Whiskey 750ml,92.0,America,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+446,In stock,Casa Noble,Casa Noble Joven Tequila 750ml,102.0,Mexico,Tequila,3.5 lbs,69.95,59.95,10.0,0.14295925661186562
+447,In stock,Casa Noble,Casa Noble Single Barrel Extra Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,99.95,84.95,15.0,0.15007503751875936
+448,In stock,Casa Noble,Casa Noble Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,54.95,54.95,0.0,0.0
+449,In stock,Sugerlands Shine,Sugarlands Shine Old Fashioned Lemonade Moonshine 750ml,40.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+450,In stock,Sugerlands Shine,Sugarlands Shine Silver Cloud Tennessee Sour Mash Moonshine 750ml,70.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+451,In stock,Kamiki,Kamiki Maltage Whiskey 750ml,96.0,Japan,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+452,Only 1 left in stock,Balvenie,Balvenie Tun 1509 Batch 5 Scotch Whiskey,105.2,Scotland,Scotch,3.5 lbs,499.95,499.95,0.0,0.0
+453,In stock,Partida,Tequila Partida Blanco 750ml,80.0,Mexico,Tequila,3.5 lbs,38.95,38.95,0.0,0.0
+454,In stock,Four Roses,Four Roses Bourbon Whiskey 750ml,80.0,America,Whiskey,3.5 lbs,24.95,17.95,7.0,0.280561122244489
+455,In stock,Codigo 1530,Codigo 1530 Rosa 750ml,80.0,Mexico,Tequila,3.5 lbs,59.99,59.99,0.0,0.0
+456,Only 2 left in stock,Cutwater Spirits,Cutwater Bali Hai Tiki Holiday Spirit 750ml,40.0,America,Liqueur,3.5 lbs,34.95,34.95,0.0,0.0
+457,Only 2 left in stock,Westland,Westland Peated American Single Malt Whiskey 750ml,92.0,America,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+458,Out of stock,Old FItzgerald,Old Fitzgerald Bottled In Bond 9 Year Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,299.95,299.95,0.0,0.0
+459,In stock,Sugerlands Shine,Sugarlands Appalachian Sippin Cream Eggnog Liqueur 750ml,70.0,America,Liqueur,3.5 lbs,19.95,19.95,0.0,0.0
+460,Out of stock,Midleton,Midleton Dair Ghaelach Single Pot Still Tree 1 Irish Whiskey 750ml,110.6,Ireland,Whiskey,3.5 lbs,299.95,299.95,0.0,0.0
+461,Out of stock,Midleton,Midleton Dair Ghaelach Single Pot Still Tree 5 Irish Whiskey 750ml,110.6,Ireland,Whiskey,3.5 lbs,299.95,299.95,0.0,0.0
+462,In stock,Haku,Haku Japanese Vodka 750ml,80.0,Japan,Vodka,3.5 lbs,29.95,29.95,0.0,0.0
+463,Only 3 left in stock,Appleton Estate,Appleton Estate 21 Year Jamaica Rum,90.0,Jamaica,Rum,3.5 lbs,129.95,129.95,0.0,0.0
+464,In stock,Cutwater Spirits,Cutwater Spirits Three Sheets Cask Strength Rum 750ml,128.0,United States,Rum,3.5 lbs,99.95,99.95,0.0,0.0
+465,In stock,Cutwater Spirits,Cutwater Spirits Three Sheets Rum 750 ml,80.0,United States,Rum,3.5 lbs,28.95,28.95,0.0,0.0
+466,In stock,Panama Pacific,Panama Pacific 9 Year Rum 750ml,94.6,Panama,Rum,3.5 lbs,36.95,36.95,0.0,0.0
+467,In stock,Cihuatan,Cihuatan Gran Reserva Rum Solera 8 750ml,80.0,El Salvador,Rum,3.5 lbs,29.95,29.95,0.0,0.0
+468,In stock,British Navy,British Navy Pusser’s Rum 750ml,80.0,UK Virgin Islands,Rum,3.5 lbs,29.95,29.95,0.0,0.0
+469,In stock,Kaiyo,Kaiyo Mizunara Oak Cask Strength Whiskey 750ml,106.0,Japan,Whiskey,3.5 lbs,114.95,114.95,0.0,0.0
+470,In stock,Jugando Spirits,Jugando Spirits Whiskey Drinking Game Kit 750ml,80.0,Mexico,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+471,Out of stock,Compass Box,Compass Box Hedonism The Muse Scotch Whiskey 750ml,106.6,Scotland,Scotch,3.5 lbs,129.95,129.95,0.0,0.0
+472,In stock,Balvenie,Balvenie Caribbean Cask 14 Year Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,87.95,87.95,0.0,0.0
+473,In stock,Olmeca Altos,Olmeca Altos Tequila Anejo 750ml,80.0,Mexico,Tequila,3.5 lbs,36.95,36.95,0.0,0.0
+474,In stock,Olmeca Altos,Olmeca Altos Tequila Mexico Plata 750ml,80.0,Mexico,Tequila,3.5 lbs,19.95,19.95,0.0,0.0
+475,In stock,El Dorado Rum,El Dorado 15 Year Old 750ml,80.0,Guyana,Rum,3.5 lbs,69.95,69.95,0.0,0.0
+476,In stock,El Dorado Rum,El Dorado 12 Year Old 750ml,80.0,Guyana,Rum,3.5 lbs,49.95,49.95,0.0,0.0
+478,In stock,Copper and Kings,Copper and Kings American Craft Brandy 750ml,90.0,America,Brandy,3.5 lbs,44.95,44.95,0.0,0.0
+479,In stock,The Kraken,The Kraken Black Spiced Rum 750ml,94.0,Trinidad & Tobago,Rum,3.5 lbs,18.95,18.95,0.0,0.0
+480,Out of stock,Tequila Dos Armadillos,Tequila Dos Armadillos Extra Anejo Clay 750ml,80.0,Mexico,Tequila,3.5 lbs,399.95,399.95,0.0,0.0
+481,In stock,Tequila Dos Artes,Tequila Dos Artes Extra Anejo 750ml,80.0,Mexico,Tequila,3.5 lbs,119.95,119.95,0.0,0.0
+482,In stock,Tequila Dos Artes,Tequila Dos Artes Blanco 1L,80.0,Mexico,Tequila,3.5 lbs,99.95,99.95,0.0,0.0
+483,In stock,The Real McCoy,The Real McCoy 12 Year Prohibition Tradition Rum 750ml,80.0,Barabados,Rum,3.5 lbs,54.95,54.95,0.0,0.0
+485,Only 1 left in stock,Willett,Willett Straight Rye 10 Year Whiskey 750ml,115.0,America,Whiskey,3.5 lbs,699.95,699.95,0.0,0.0
+486,In stock,Redbreast,Redbreast Lustau Irish Whiskey Edition 750ml,92.0,Ireland,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+487,In stock,Dalmore,Dalmore King Alexander III Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,299.95,299.95,0.0,0.0
+488,In stock,Dalmore,Dalmore Cigar Malt Reserve Scotch Whiskey 750ml,88.0,Scotland,Scotch,3.5 lbs,189.95,189.95,0.0,0.0
+489,In stock,Cointreau,Cointreau Noir Orange Liqueur Cognac 750ml,80.0,France,"Cognac, Liqueur",3.5 lbs,39.95,39.95,0.0,0.0
+490,Out of stock,Octomore,Octomore 8.3 Scotch Whiskey 750ml,122.4,Scotland,Scotch,3.5 lbs,239.95,239.95,0.0,0.0
+491,Only 1 left in stock,Octomore,Octomore 8.4 Scotch Whiskey 750ml,117.4,Scotland,Scotch,3.5 lbs,249.95,249.95,0.0,0.0
+493,Out of stock,Glenlivet,Glenlivet Single Cask Pullman 20th Century Single Malt Scotch Whiskey 750ml,115.46,Scotland,Scotch,3.5 lbs,299.95,299.95,0.0,0.0
+494,In stock,Glenfiddich,Glenfiddich 14 Year Old Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,54.95,54.95,0.0,0.0
+495,In stock,Jameson,Jameson Coopers Croze Whiskey 750ml,86.0,Ireland,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+496,Out of stock,1792,1792 Sweet Wheat Bourbon Whiskey 750ml,91.2,America,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+498,In stock,Highland Park,Highland Park 18 Years Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,159.95,159.95,0.0,0.0
+499,Only 2 left in stock,Highland Park,Highland Park The Light Single Malt Scotch Whiskey 750ml,105.8,Scotland,Scotch,3.5 lbs,299.95,299.95,0.0,0.0
+500,In stock,Macallan,Macallan 12 Years Double Cask Scotch 750ml,86.0,Scotland,Scotch,3.5 lbs,59.95,59.95,0.0,0.0
+501,Only 1 left in stock,Macallan,Macallan 18 Years Sherry Oak Scotch 750ml,86.0,Scotland,Scotch,3.5 lbs,349.95,349.95,0.0,0.0
+502,In stock,Knob Creek,Knob Creek Straight Rye Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,24.95,24.95,0.0,0.0
+504,In stock,Kavalan,Kavalan Concertmaster Single Malt Whiskey 750ml,92.0,Taiwan,Whiskey,3.5 lbs,119.95,119.95,0.0,0.0
+505,In stock,Kikori,Kikori Whiskey 750ml,82.0,Japan,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+506,Out of stock,Nikka,Nikka Taketsuru Pure Malt 17 Years Old Whiskey 750ml,86.0,Japan,Whiskey,3.5 lbs,299.95,299.95,0.0,0.0
+507,In stock,Nikka,Nikka Taketsuru Pure Malt Whiskey 750ml,86.0,Japan,Whiskey,3.5 lbs,73.95,73.95,0.0,0.0
+508,Out of stock,Nikka,Nikka Taketsuru Pure Malt 21 Years Old Whiskey 750ml,86.0,Japan,Whiskey,3.5 lbs,499.95,499.95,0.0,0.0
+509,In stock,Suntory Whisky Toki,Suntory Whiskey Toki 750ml,86.0,Japan,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+556,In stock,Knob Creek,Knob Creek Straight Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+575,In stock,Old Elk,Old Elk Blended Straight Bourbon Whiskey,88.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+576,In stock,Old Pepper,1776 Straight Rye​ ​Barrel Proof Whiskey,114.6,America,Whiskey,3.5 lbs,42.95,42.95,0.0,0.0
+577,In stock,Old Pepper,1776 Straight Rye​ ​Finished in Sherry Casks Whiskey,100.0,America,Whiskey,3.5 lbs,55.95,55.95,0.0,0.0
+579,Only 3 left in stock,Bookers,Booker’s 2019-01 Teresa’s Batch Bourbon Whiskey,125.9,America,Whiskey,5 lbs,84.95,84.95,0.0,0.0
+581,In stock,GlenGoyne,Glengoyne 15 Year Scotch Whiskey,86.0,Scotland,Scotch,3.5 lbs,91.95,91.95,0.0,0.0
+582,In stock,GlenGoyne,Glengoyne 18 Year Scotch Whiskey,86.0,Scotland,Scotch,3.5 lbs,144.95,144.95,0.0,0.0
+583,In stock,GlenGoyne,Glengoyne Cask Strength Scotch Whiskey,117.8,Scotland,Scotch,3.5 lbs,89.95,89.95,0.0,0.0
+584,Only 2 left in stock,Compass Box,Compass Box Juveniles Scotch Whiskey,92.0,Scotland,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+585,Only 3 left in stock,Alexander Murray,Alexander Murray Speyside 41 Year 1972 Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,999.95,999.95,0.0,0.0
+586,Only 3 left in stock,Alexander Murray,Alexander Murray Speyside 40 Year 1972 Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,949.95,949.95,0.0,0.0
+587,In stock,Alexander Murray,Alexander Murray Mortlach 19 Year Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,124.95,124.95,0.0,0.0
+589,In stock,Alexander Murray,Alexander Murray Linkwood 19 Year 1997 Scotch Whiskey,107.6,Scotland,Scotch,3.5 lbs,134.95,134.95,0.0,0.0
+590,In stock,Alexander Murray,Alexander Murray Ledaig 20 Year 1997 Scotch Whiskey,100.0,Scotland,Scotch,3.5 lbs,164.95,164.95,0.0,0.0
+591,In stock,Angostura,Angostura Cask Collection No 1 Oloroso Sherry Rum,80.0,Caribbean,Rum,3.5 lbs,119.95,119.95,0.0,0.0
+592,In stock,Gray Whale Gin,Gray Whale Gin,86.0,America,Gin,3.5 lbs,43.95,38.95,5.0,0.11376564277588168
+593,In stock,Alexander Murray,Alexander Murray Laphroaig 12 Year 2005 Scotch Whiskey,108.0,Scotland,Scotch,3.5 lbs,104.95,104.95,0.0,0.0
+594,In stock,Alexander Murray,Alexander Murray Glenturret 30 Year 1986 Scotch Whiskey,99.6,Scotland,Scotch,3.5 lbs,219.95,219.95,0.0,0.0
+595,In stock,Alexander Murray,Alexander Murray Glenturret 34 Year 1982 Scotch Whiskey,87.6,Scotland,Scotch,3.5 lbs,259.95,259.95,0.0,0.0
+596,Only 3 left in stock,Alexander Murray,Alexander Murray Glenlossie 19 Year 1997 Scotch Whiskey,106.6,Scotland,Scotch,3.5 lbs,119.95,119.95,0.0,0.0
+598,In stock,"Alexander Murray, Dailuaine",Alexander Murray Dailuaine 1997 16 Year Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,74.95,74.95,0.0,0.0
+599,In stock,"Alexander Murray, Bruichladdich",Alexander Murray Bruichladdich 12 Year 2005 Scotch Whiskey,112.0,Scotland,Scotch,3.5 lbs,109.95,109.95,0.0,0.0
+600,In stock,"Alexander Murray, Benrinnes",Alexander Murray Benrinnes 19 Year 1995 Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,119.95,119.95,0.0,0.0
+601,In stock,"Alexander Murray, Ardmore",Alexander Murray Ardmore 9 Year 2008 Scotch Whiskey,92.0,Scotland,Scotch,3.5 lbs,69.95,69.95,0.0,0.0
+603,In stock,The Matsui,The Matsui Single Malt The Peated Japanese Whiskey,96.0,Japan,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+604,In stock,The Matsui,The Matsui Single Malt Sakura Cask Japanese Whiskey,96.0,Japan,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+605,In stock,Siete Misterios,Siete Misterios Barril Mezcal 2018,98.0,Mexico,Mezcal,3.5 lbs,119.95,119.95,0.0,0.0
+606,Only 1 left in stock,Springbank,Springbank 21 Year Single Malt Scotch Whiskey,92.0,America,Scotch,3.5 lbs,449.95,449.95,0.0,0.0
+607,Only 1 left in stock,Springbank,Springbank 25 Year Single Malt Scotch Whiskey,92.0,America,Scotch,5 lbs,899.95,899.95,0.0,0.0
+608,In stock,Austin Cocktails,Austin Cocktails Cucumber Vodka Mojito,30.0,America,Vodka,3.5 lbs,18.95,18.95,0.0,0.0
+609,In stock,Austin Cocktails,Austin Cocktails Perfect Bergamot Orange Margarita,30.0,America,Tequila,3.5 lbs,18.95,18.95,0.0,0.0
+610,In stock,Austin Cocktails,Austin Cocktails Ruby Red Cocktail,30.0,America,Vodka,3.5 lbs,18.95,18.95,0.0,0.0
+611,In stock,Austin Cocktails,Austin Cocktails Peppered Maple Blood Orange Bourbon Cocktail,30.0,America,Whiskey,3.5 lbs,18.95,18.95,0.0,0.0
+612,In stock,Austin Cocktails,Austin Cocktails New School Gin Mule,30.0,America,Gin,3.5 lbs,18.95,18.95,0.0,0.0
+616,In stock,Patron Tequila,Patron Estate Release Limited Edition Tequila,84.0,Mexico,Tequila,3.5 lbs,99.95,99.95,0.0,0.0
+619,In stock,Coppola,Maria Gaetana Agnesi 1799 Small Batch Brandy,80.0,America,Brandy,3.5 lbs,62.95,62.95,0.0,0.0
+620,In stock,Greenhook GInsmiths,Greenhook Ginsmiths Beach Plum Gin Liqueur,60.0,America,Gin,3.5 lbs,52.95,52.95,0.0,0.0
+621,In stock,Greenhook GInsmiths,Greenhook Ginsmiths Old Tom Gin,100.0,America,Gin,3.5 lbs,44.95,44.95,0.0,0.0
+622,In stock,Greenhook GInsmiths,Greenhook Ginsmiths American Dry Gin,94.0,America,Gin,3.5 lbs,35.95,35.95,0.0,0.0
+623,In stock,Henebery,Henebery Old Fashioned Whiskey,80.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+624,In stock,Cenote,Cenote Blanco Tequila,80.0,Mexico,Tequila,3.5 lbs,42.95,42.95,0.0,0.0
+625,In stock,Cenote,Cenote Reposado Tequila,80.0,Mexico,Tequila,3.5 lbs,49.95,49.95,0.0,0.0
+626,In stock,Cenote,Cenote Anejo Tequila,80.0,Mexico,Tequila,3.5 lbs,59.95,59.95,0.0,0.0
+627,In stock,Balcones,Balcones Rumble Whiskey,94.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+628,In stock,Balcones,Balcones True Blue Corn Whiskey,100.0,America,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+629,In stock,Balcones,Balcones Texas Rye Whiskey,92.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+630,In stock,Balcones,Balcones Baby Blue Corn Whiskey,92.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+631,In stock,Nine Banded,Nine Banded Whiskey,90.0,America,Whiskey,3.5 lbs,27.95,27.95,0.0,0.0
+632,In stock,Facundo,Facundo Neo Rum,80.0,Bahamas,Rum,3.5 lbs,47.95,47.95,0.0,0.0
+633,In stock,Facundo,Facundo Eximo Rum,80.0,Bahamas,Rum,3.5 lbs,67.95,67.95,0.0,0.0
+634,In stock,Facundo,Facundo Exquisito Rum,80.0,Bahamas,Rum,3.5 lbs,124.95,124.95,0.0,0.0
+635,Only 3 left in stock,Facundo,Facundo Paraiso Rum,80.0,Bahamas,Rum,3.5 lbs,264.95,264.95,0.0,0.0
+636,Only 2 left in stock,Real Minero,Real Minero Espadin Largo Mezcal,101.4,Mexico,Mezcal,3.5 lbs,134.95,134.95,0.0,0.0
+637,In stock,Rum Fire,Rum Fire Jamaican White Overproof Rum,126.0,Jamaica,Rum,3.5 lbs,31.95,31.95,0.0,0.0
+638,In stock,Heaven's Door,Heavens Door 10 Year Bourbon Whiskey,100.0,America,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+639,In stock,Silent Pool,Silent Pool Gin 750ml,86.0,London,Gin,3.5 lbs,54.95,54.95,0.0,0.0
+640,Only 3 left in stock,Bummer & Lazarus,Bummer & Lazarus Gin,92.0,America,Gin,3.5 lbs,34.95,34.95,0.0,0.0
+641,In stock,Glen Grant,Glen Grant 12 Year Single Malt Scotch Whiskey,86.0,Scotland,Whiskey,3.5 lbs,47.95,47.95,0.0,0.0
+642,In stock,Starward,Starward Nova Single Malt Australian Whiskey,82.0,Australia,Whiskey,3.5 lbs,52.95,52.95,0.0,0.0
+643,In stock,Baker's,Baker’s Kentucky Straight Bourbon Whiskey,107.0,America,Whiskey,3.5 lbs,48.95,48.95,0.0,0.0
+644,In stock,Auchentoshan,Auchentoshan Three Wood Single Malt Scotch Whisky,86.0,Scotland,Scotch,3.5 lbs,69.95,69.95,0.0,0.0
+645,In stock,Auchentoshan,Auchentoshan 21 Year Single Malt Scotch Whiskey,86.0,Scotland,Scotch,3.5 lbs,199.95,199.95,0.0,0.0
+646,In stock,Auchentoshan,Auchentoshan 18 Year Single Malt Scotch Whiskey,86.0,Scotland,Scotch,3.5 lbs,139.95,139.95,0.0,0.0
+647,In stock,Auchentoshan,Auchentoshan 12 Year Single Malt Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,54.95,54.95,0.0,0.0
+648,In stock,Auchentoshan,Auchentoshan The Bartender’s Malt Annual Limited Edition Scotch Whiskey,94.0,Scotland,Scotch,3.5 lbs,47.95,47.95,0.0,0.0
+649,Only 3 left in stock,Hine,Hine Touzac Single Cask 2005 Cognac,82.6,France,Cognac,3.5 lbs,154.95,154.95,0.0,0.0
+650,Only 3 left in stock,Hine,Hine Domaines Bonneuil 2008 Cognac,85.4,France,Cognac,3.5 lbs,142.95,142.95,0.0,0.0
+652,Only 3 left in stock,Hine,Hine Antique XO Cognac,80.0,France,Cognac,3.5 lbs,198.95,198.95,0.0,0.0
+653,Only 3 left in stock,Hine,Hine Domaines Hine Bonneuil 2005 Cognac,80.0,France,Cognac,3.5 lbs,142.95,142.95,0.0,0.0
+654,Only 3 left in stock,Hine,H By Hine Cognac,80.0,France,Cognac,3.5 lbs,49.95,49.95,0.0,0.0
+655,Only 3 left in stock,Hine,Hine Homeage Cognac,80.0,France,Cognac,3.5 lbs,139.95,139.95,0.0,0.0
+656,Only 3 left in stock,Hine,Hine Triomphe 80 Decanter Cognac,80.0,France,Cognac,3.5 lbs,969.95,899.95,70.0,0.0721686684880664
+657,In stock,Codigo 1530,Codigo 1530 Blanco Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+658,In stock,Knob Creek,Knob Creek Twice Barreled Rye Whiskey,100.0,America,Whiskey,3.5 lbs,54.95,54.95,0.0,0.0
+659,In stock,Octomore,Octomore 10 Year Dialogos Scotch Whiskey,113.6,Scotland,Scotch,3.5 lbs,229.95,229.95,0.0,0.0
+660,In stock,Minor Case,Minor Case Straight Rye Whiskey,90.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+661,In stock,Sagamore Spirit,Sagamore Spirit Signature Rye Whiskey,83.0,America,Whiskey,3.5 lbs,42.95,42.95,0.0,0.0
+662,In stock,Sagamore Spirit,Sagamore Spirit Cask Strength Rye Whiskey,113.6,America,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+663,In stock,Yellowstone,Yellowstone Bourbon Select Whiskey,93.0,America,Whiskey,3.5 lbs,34.95,34.95,0.0,0.0
+664,In stock,Aberlour,Aberlour 12 Year Double Cask Scotch Whiskey,80.0,Scotland,Scotch,3.5 lbs,58.95,58.95,0.0,0.0
+665,Only 2 left in stock,Kilkerran,Kilkerran 8 Year Cask Strength Single Malt Scotch Whiskey,111.4,Scotland,Scotch,3.5 lbs,119.95,119.95,0.0,0.0
+667,In stock,Longrow,Longrow Red 11 Year Pinot Noir Cask Scotch Whiskey,106.2,Scotland,Scotch,3.5 lbs,139.95,139.95,0.0,0.0
+668,In stock,Springbank,Springbank 12 Year Cask Strength Scotch Whiskey,112.4,Scotland,Scotch,3.5 lbs,119.95,119.95,0.0,0.0
+669,Only 2 left in stock,Martell,Martell VS Single Distillery Cognac,80.0,France,Cognac,3.5 lbs,39.95,39.95,0.0,0.0
+670,Only 2 left in stock,Martell,Martell Blue Swift VSOP Cognac,80.0,France,Cognac,3.5 lbs,59.95,59.95,0.0,0.0
+671,In stock,La Gritona,La Gritona Reposado Tequila,80.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+672,In stock,Amaras,Amaras Cupreata Mezcal,86.0,Mexico,Mezcal,3.5 lbs,59.95,59.95,0.0,0.0
+673,Only 1 left in stock,Bunnahabhain,Bunnahabhain 18 Year Scotch Whiskey,92.6,Scotland,Scotch,3.5 lbs,139.95,139.95,0.0,0.0
+675,In stock,Sierra Norte,Sierra Norte Single Barrel Black Corn Mexican Whiskey,90.0,Mexico,Whiskey,3.5 lbs,54.95,54.95,0.0,0.0
+676,In stock,Dopo Teatro,Dopo Teatro Cocchi Vermouth Amaro 500ml,32.0,Italy,Vermouth,3.5 lbs,20.95,20.95,0.0,0.0
+677,In stock,New Deal,New Deal Cascara Liqueur,51.2,America,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+678,In stock,New Deal,New Deal Coffee Liqueur,51.2,America,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+679,In stock,New Deal,New Deal Ginger Liqueur,51.2,America,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+680,Only 3 left in stock,Dolin De Chambery,Dolin Genepy Le Chamois Liqueur,90.0,France,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+681,In stock,Grand Mayan,Grand Mayan Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,69.95,64.95,5.0,0.07147962830593281
+682,Only 1 left in stock,Springbank,Springbank 15 Year Single Malt Scotch Whiskey,92.0,America,Scotch,3.5 lbs,139.95,139.95,0.0,0.0
+683,Only 1 left in stock,Springbank,Springbank 10 Year Single Malt Scotch Whiskey,92.0,America,Scotch,3.5 lbs,75.95,75.95,0.0,0.0
+684,Only 1 left in stock,Springbank,Springbank 18 Year Single Malt Scotch Whiskey,92.0,America,Scotch,3.5 lbs,249.95,249.95,0.0,0.0
+685,Only 1 left in stock,Compass Box,Compass Box Limited Edition Stranger & Stranger Scotch Whiskey,92.0,Scotland,Whiskey,3.5 lbs,299.95,299.95,0.0,0.0
+686,In stock,Rabbit Hole,Rabbit Hole Kentucky Straight Bourbon Whiskey,95.0,America,Whiskey,3.5 lbs,48.95,48.95,0.0,0.0
+688,Only 3 left in stock,La Nina Del Mezcal,La Nina Del Mezcal Espadin,90.0,Mexico,Mezcal,3.5 lbs,64.95,64.95,0.0,0.0
+689,Only 3 left in stock,La Nina Del Mezcal,La Nina Del Mezcal Pechuga,96.0,Mexico,Mezcal,3.5 lbs,109.95,109.95,0.0,0.0
+690,Only 3 left in stock,La Nina Del Mezcal,La Nina Del Mezcal Tobala,96.8,Mexico,Mezcal,3.5 lbs,119.95,119.95,0.0,0.0
+691,Only 3 left in stock,Illegal Mezcal,Illegal Mezcal Anejo,80.0,Mexico,Mezcal,3.5 lbs,114.95,114.95,0.0,0.0
+692,Only 3 left in stock,Illegal Mezcal,Illegal Mezcal Jovan,80.0,Mexico,Mezcal,3.5 lbs,46.95,46.95,0.0,0.0
+693,Only 3 left in stock,Illegal Mezcal,Illegal Mezcal Reposado,80.0,Mexico,Mezcal,3.5 lbs,66.95,66.95,0.0,0.0
+694,Only 3 left in stock,Bruxo,Bruxo No 3 Barril Mezcal,92.0,Mexico,Mezcal,3.5 lbs,77.95,77.95,0.0,0.0
+695,Only 3 left in stock,Bruxo,Bruxo No 5 Tobala Mezcal,92.0,Mexico,Mezcal,3.5 lbs,124.95,124.95,0.0,0.0
+696,Only 3 left in stock,El Silencio,El Silencio Joven Mezcal,80.0,America,Mezcal,3.5 lbs,67.95,67.95,0.0,0.0
+697,Only 3 left in stock,El Silencio,El Silencio Espadin Mezcal,86.0,America,Mezcal,3.5 lbs,29.95,29.95,0.0,0.0
+698,Only 2 left in stock,Yuu Baal,Yuu Baal Pechuga Mezcal,96.0,Mexico,Mezcal,3.5 lbs,124.95,124.95,0.0,0.0
+699,In stock,Bulleit,Bulleit 12 Year Rye Whiskey,92.0,America,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+700,In stock,Mezcal Vago,Mezcal Vago Cuixe,101.0,Mexico,Mezcal,3.5 lbs,99.95,99.95,0.0,0.0
+701,Out of stock,Weller,Weller CYPB Wheated Bourbon Whiskey,95.0,America,Whiskey,3.5 lbs,699.95,699.95,0.0,0.0
+702,Only 2 left in stock,Siete Misterios,Siete Misterios Coyote Mezcal 2015,92.6,Mexico,Mezcal,3.5 lbs,119.95,119.95,0.0,0.0
+703,Only 2 left in stock,Siete Misterios,Siete Misterios Pechuga Mezcal 2016,96.0,Mexico,Mezcal,3.5 lbs,189.95,189.95,0.0,0.0
+704,In stock,The Tyrconnell,The Tyrconnell 15 Year Single Malt Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+706,In stock,The Tyrconnell,The Tyrconnell 16 Year Single Malt Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+707,In stock,The Tyrconnell,The Tyrconnell Port Cask Single Malt Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+708,In stock,The Tyrconnell,The Tyrconnell Sherry Cask Single Malt Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+709,In stock,The Tyrconnell,The Tyrconnell Single Malt Madeira Cask Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,109.95,109.95,0.0,0.0
+710,In stock,Noble Oak,Noble Oak Double Oak Bourbon,90.0,America,Whiskey,3.5 lbs,38.95,38.95,0.0,0.0
+712,Only 2 left in stock,Jameson,Jameson Limited Reserve 18 Year Irish Whiskey,80.0,Ireland,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+713,In stock,Saint Brendan's,Saint Brendans Irish Cream Liqueur Coffee & Cocoa Set,34.0,Ireland,Liqueur,3.5 lbs,12.95,12.95,0.0,0.0
+714,In stock,Brugal,Brugal Extra Dry Supremo 750ml,80.0,Dominican Republic,Rum,3.5 lbs,36.95,36.95,0.0,0.0
+715,In stock,Brugal,Brugal Anejo 750 ml,80.0,Dominican Republic,Rum,3.5 lbs,29.95,29.95,0.0,0.0
+716,In stock,Clairin,Clairin Vaval 750 ml,97.6,Haiti,Rum,3.5 lbs,45.95,45.95,0.0,0.0
+717,In stock,Rhum Clement,Clement Canne Bleue 750ml,100.0,Martinique,Rum,3.5 lbs,45.95,45.95,0.0,0.0
+718,In stock,Rhum Clement,Clement Creole Shrubb 750ml,80.0,Martinique,Rum,3.5 lbs,33.95,33.95,0.0,0.0
+719,In stock,Panama Pacific,Panama Pacific 9 750 ml,94.6,Panama,Rum,3.5 lbs,36.99,36.99,0.0,0.0
+720,In stock,Ron Abuelo,Ron Abuelo 7 Anos 750ml,80.0,Panama,Rum,3.5 lbs,29.99,29.99,0.0,0.0
+721,In stock,Ron Abuelo,Ron Abuelo 12 Anos 750 ml,80.0,Panama,Rum,3.5 lbs,39.99,39.99,0.0,0.0
+722,In stock,Ron Botran,Ron Botran 18 Solera 750ml,80.0,Guatemala,Rum,3.5 lbs,38.99,38.99,0.0,0.0
+723,In stock,Ron Botran,Ron Botran Anejo 12 750ml,80.0,Guatemala,Rum,3.5 lbs,21.99,21.99,0.0,0.0
+724,In stock,Ron Botran,Ron Botran Reserva Blanca 750ml,80.0,Guatemala,Rum,3.5 lbs,21.99,21.99,0.0,0.0
+725,In stock,Quiet Man,Quiet Man Irish Whiskey,80.0,Ireland,Whiskey,3.5 lbs,32.95,32.95,0.0,0.0
+726,In stock,Quiet Man,Quiet Man 8 year Single Malt Irish Whiskey,80.0,Ireland,Whiskey,3.5 lbs,42.95,42.95,0.0,0.0
+727,In stock,The Irishman,The Irishman Cask Strength Whiskey,108.0,Ireland,Whiskey,5 lbs,154.95,154.95,0.0,0.0
+728,In stock,The Irishman,The Irishman Irish Cream Liqueur,34.0,Ireland,Whiskey,3.5 lbs,15.95,15.95,0.0,0.0
+729,Only 2 left in stock,Powers,Powers Signature Release Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,54.95,54.95,0.0,0.0
+730,In stock,Powers,Powers John’s Lane Irish Whiskey,92.0,Ireland,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+731,In stock,Powers,Powers Three Swallow Irish Whiskey,86.4,Ireland,Whiskey,3.5 lbs,54.95,54.95,0.0,0.0
+732,In stock,Rowan's Creek,Rowans Creek Small Batch Bourbon Whiskey,100.1,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+733,In stock,Garrison Brothers,Garrison Brothers Small Batch Boot Flask 375ml,94.0,America,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+734,In stock,Corte Vetusto,Corte Vetusto Mezcal Tobala,86.0,Mexico,Mezcal,3.5 lbs,129.95,129.95,0.0,0.0
+735,In stock,Corte Vetusto,Corte Vetusto Mezcal Ensamble,86.0,Mexico,Mezcal,3.5 lbs,129.95,129.95,0.0,0.0
+736,In stock,Corte Vetusto,Corte Vetusto Mezcal Espadin,90.0,Mexico,Mezcal,3.5 lbs,79.95,79.95,0.0,0.0
+737,In stock,Laphroaig,Laphroaig 10 Year Cask Strength Scotch Whiskey,106.0,Scotland,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+738,In stock,Laphroaig,Laphroaig Select Scotch Whiskey,80.0,Scotland,Whiskey,3.5 lbs,49.95,49.95,0.0,0.0
+739,In stock,Laphroaig,Laphroaig Lore Scotch Whiskey,96.0,Scotland,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+740,In stock,Laphroaig,Laphroaig Cairdeas Fino Scotch Whiskey,103.6,Scotland,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+741,In stock,Laphroaig,Laphroaig Triple Wood Scotch Whiskey,96.0,Scotland,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+742,In stock,Blue Chair Bay,Blue Chair Bay Key Lime Cream Rum,30.0,Caribbean,Rum,3.5 lbs,16.95,16.95,0.0,0.0
+744,Only 1 left in stock,Bruichladdich,Bruichladdich 1986 Rare Cask Series 30 Year Scotch Whiskey,97.4,Scotland,Scotch,3.5 lbs,999.95,999.95,0.0,0.0
+745,Only 1 left in stock,Bruichladdich,Bruichladdich 1985 Rare Cask Series 32 Year Scotch Whiskey,97.4,Scotland,Scotch,3.5 lbs,999.95,999.95,0.0,0.0
+746,Only 1 left in stock,Bruichladdich,Bruichladdich 1984 Rare Cask Series 32 Year Scotch Whiskey,87.4,Scotland,Scotch,3.5 lbs,999.95,999.95,0.0,0.0
+747,In stock,Senor De Los Cielos,Senor De Los Cielos Anejo Cristalino Tequila,80.0,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+748,In stock,Senor De Los Cielos,Senor De Los Cielos Extra Anejo Cristalino Tequila,80.0,Mexico,Tequila,3.5 lbs,99.95,99.95,0.0,0.0
+749,Only 1 left in stock,Appleton Estate,Appleton Estate 30 Year Limited Edition Rum,86.0,Jamaica,Rum,3.5 lbs,579.95,579.95,0.0,0.0
+750,Only 2 left in stock,Bruichladdich,Bruichladdich The Organic 2009 Scotch Whiskey,100.0,Scotland,Scotch,3.5 lbs,99.95,99.95,0.0,0.0
+751,Only 2 left in stock,Bruichladdich,Bruichladdich Black Art 06.1 Scotch Whiskey,93.8,Scotland,Scotch,3.5 lbs,399.95,399.95,0.0,0.0
+753,Only 2 left in stock,Herradura,Herradura Seleccion Suprema Extra Anejo Tequila,80.0,Mexico,Tequila,5 lbs,399.95,399.95,0.0,0.0
+754,Only 3 left in stock,Corazon,Corazon Expresiones Artisanal Blanco Tequila,80.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+755,In stock,Old Forester,Old Forester 1870 Original Batch Bourbon Whiskey,90.0,America,Whiskey,3.5 lbs,44.95,44.95,0.0,0.0
+756,Only 2 left in stock,Old Forester,Old Forester Statesman Bourbon Whiskey,95.0,America,Whiskey,3.5 lbs,69.95,69.95,0.0,0.0
+763,In stock,Lejay,Lejay Creme De Cassie Liqueur 375ml,36.0,France,Liqueur,3.5 lbs,27.95,27.95,0.0,0.0
+764,In stock,Destillare,Destillare Intense Orange Curacao Liqueur,90.0,America,Liqueur,3.5 lbs,39.95,39.95,0.0,0.0
+765,In stock,Manana,Manana Blanco Tequila,80.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+766,In stock,Drambuie,Drambuie Scotch Whiskey Liqueur,80.0,Scotland,Liqueur,3.5 lbs,29.95,29.95,0.0,0.0
+767,In stock,Nonino,Amaro Nonino Quintessentia Liqueur,70.0,Italy,Liqueur,3.5 lbs,49.95,49.95,0.0,0.0
+768,In stock,Kings Ginger,The Kings Ginger Liqueur,82.0,England,Liqueur,3.5 lbs,34.95,34.95,0.0,0.0
+769,In stock,Tempus Fugit,Tempus Fugit Creme De Banane,52.0,Switzerland,Liqueur,3.5 lbs,39.95,39.95,0.0,0.0
+770,In stock,Tempus Fugit,Tempus Fugit Liqueur De Violettes,44.0,Switzerland,Liqueur,3.5 lbs,34.95,34.95,0.0,0.0
+771,In stock,Belle Meade,Belle Meade XO Cognac Cask Finish Bourbon Whiskey,90.4,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+772,In stock,Belle Meade,Belle Meade Sherry Cask Finish Bourbon Whiskey,90.4,America,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+773,In stock,Firefly,Firefly Caramel Moonshine 750ml,60.3,America,Moonshine,3.5 lbs,18.95,18.95,0.0,0.0
+774,Only 3 left in stock,Rey Campero,Rey Campero Mexicano Mezcal 750ml,87.2,Mexico,Mezcal,3.5 lbs,98.95,98.95,0.0,0.0
+775,Only 3 left in stock,Rey Campero,Rey Campero Cuishe Mezcal 750ml,96.2,Mexico,Mezcal,3.5 lbs,94.95,94.95,0.0,0.0
+776,Only 3 left in stock,Rey Campero,Rey Campero Tepextate Mezcal 750ml,96.54,Mexico,Mezcal,3.5 lbs,119.95,119.95,0.0,0.0
+777,Only 3 left in stock,Rey Campero,Rey Campero Espandin Mezcal 750ml,96.8,Mexico,Mezcal,3.5 lbs,59.95,59.95,0.0,0.0
+778,Only 2 left in stock,Gustoso,Gustoso Aguardiente Aged Rum 750ml,80.0,Mexico,Rum,3.5 lbs,32.95,32.95,0.0,0.0
+779,Only 2 left in stock,Tosba,Tosba Espadin Mezcal 750ml,84.0,Mexico,Mezcal,3.5 lbs,57.95,57.95,0.0,0.0
+780,Only 2 left in stock,Tosba,Tosba Tobala Mezcal 750ml,98.0,Mexico,Mezcal,3.5 lbs,133.95,133.95,0.0,0.0
+781,Only 2 left in stock,Tosba,Tosba Pechuga Mezcal 750ml,92.0,Mexico,Mezcal,3.5 lbs,98.95,98.95,0.0,0.0
+782,Only 2 left in stock,Real Minero,Real Minero Barril Mezcal 750ml,99.8,Mexico,Mezcal,3.5 lbs,142.95,142.95,0.0,0.0
+783,Only 2 left in stock,Geiger Spirits,California Glogg Liqueur 750ml,40.0,America,Liqueur,3.5 lbs,41.95,41.95,0.0,0.0
+785,In stock,Henebery,Henebery Rye Whiskey,90.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+786,In stock,Belle Meade,Belle Meade Madeira Cask Finish Bourbon Whiskey,90.4,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+787,In stock,OMAR,Omar Taiwanese Single Malt Shery Barrel Whiskey,92.0,Taiwan,Whiskey,3.5 lbs,88.95,88.95,0.0,0.0
+788,In stock,Paul John,Paul John Peated Bold India Single Malt Whiskey,92.0,India,Whiskey,3.5 lbs,67.95,67.95,0.0,0.0
+789,In stock,Cotswolds,Cotswold English Single Malt Whiskey,92.0,England,Whiskey,3.5 lbs,57.95,57.95,0.0,0.0
+790,In stock,The Burning Chair,The Burning Chair Indiana Bourbon Whiskey,88.0,Indiana,Bourbon,3.5 lbs,69.95,69.95,0.0,0.0
+791,In stock,Second Glance,Second Glance American Blended Whiskey,88.0,Kentucky,Whiskey,3.5 lbs,45.95,45.95,0.0,0.0
+792,In stock,KOVAL,Koval Organic Oat Single Barrel Whiskey,80.0,Illinois,Whiskey,3.5 lbs,47.95,47.95,0.0,0.0
+793,In stock,KOVAL,Korval Organic Four Grain Single Barrel Whiskey,94.0,Illinois,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+794,In stock,KOVAL,Koval Organic Single Barrel Bourbon Whiskey,94.0,Illinois,Bourbon,3.5 lbs,49.95,49.95,0.0,0.0
+795,In stock,Gracias A Dios,Gracias A Dios Mezcal Espadin,90.0,Mexico,Tequila,3.5 lbs,36.95,36.95,0.0,0.0
+796,In stock,Karma,Karma Tequila Reposado,80.0,Mexico,Tequila,3.5 lbs,47.95,47.95,0.0,0.0
+797,In stock,Karma,Karma Tequila Silver,80.0,Mexico,Tequila,3.5 lbs,51.95,51.95,0.0,0.0
+798,In stock,Karma,Karma Tequila Anejo,80.0,Mexico,Tequila,3.5 lbs,59.95,59.95,0.0,0.0
+799,In stock,Desmadre,Desmadre Tequila Reposado,80.0,Mexico,Tequila,3.5 lbs,46.95,46.95,0.0,0.0
+800,In stock,Desmadre,Desmadre Tequila Blanco Unaged,80.0,Mexico,Tequila,3.5 lbs,39.95,39.95,0.0,0.0
+801,In stock,Desmadre,Desmadre Tequila Anejo,80.0,Mexico,Tequila,3.5 lbs,62.95,62.95,0.0,0.0
+802,In stock,Ayate,Ayate Reposado Tequila,80.0,Mexico,Tequila,3.5 lbs,84.95,84.95,0.0,0.0
+803,In stock,Ayate,Ayate Anejo Tequila,80.0,Mexico,Tequila,3.5 lbs,117.95,117.95,0.0,0.0
+804,In stock,123,123 Organic Tequila Reposado,80.0,Mexico,Tequila,3.5 lbs,63.95,63.95,0.0,0.0
+805,In stock,123,123 Organic Tequila Diablito Extra Anejo,80.0,Mexico,Tequila,3.5 lbs,176.95,176.95,0.0,0.0
+806,In stock,123,123 Organic Tequila Blanco,80.0,Mexico,Tequila,3.5 lbs,55.95,55.95,0.0,0.0
+807,In stock,123,123 Organic Tequila Anejo,80.0,Mexico,Tequila,3.5 lbs,75.95,75.95,0.0,0.0
+808,In stock,Lepanto,Lepanto Brandy Solera Gran Reserva,80.0,Spain,Brandy,3.5 lbs,47.95,47.95,0.0,0.0
+809,In stock,Lepanto,Lepanto Brandy Oloroso Viejo Solera Gran Reserva,80.0,Spain,Brandy,3.5 lbs,59.95,59.95,0.0,0.0
+810,In stock,Selvarey Rum,Selvarey Cacao Rum,80.0,Panama,Rum,3.5 lbs,23.95,23.95,0.0,0.0
+811,In stock,Atlantico,Ron Atlantico Rum Gran Reserva,80.0,Dominican Republic,Rum,3.5 lbs,34.95,34.95,0.0,0.0
+812,In stock,Blackwell,Blackwell Rum Black Gold Special Reserve,80.0,Jamaica,Rum,3.5 lbs,21.95,21.95,0.0,0.0
+813,In stock,Purity,Purity Vodka 17 Times Distilled,80.0,Sweden,Vodka,3.5 lbs,21.95,21.95,0.0,0.0
+814,In stock,Purity,Purity Vodka,80.0,Sweden,Vodka,3.5 lbs,28.95,28.95,0.0,0.0
+815,In stock,Loch & Union,Loch & Union American Dry Gin,94.4,America,Gin,3.5 lbs,49.95,49.95,0.0,0.0
+816,In stock,Loch & Union,Loch & Union Barley Gin,86.0,America,Gin,3.5 lbs,89.95,89.95,0.0,0.0
+817,Only 3 left in stock,Usquaebach,Usquaebach Reserve Blended Scotch Whiskey,96.0,Scotland,Whiskey,3.5 lbs,45.95,45.95,0.0,0.0
+818,Only 3 left in stock,Usquaebach,Usquaebach 15 Year Blended Scotch Whiskey,96.0,Scotland,Whiskey,3.5 lbs,89.95,89.95,0.0,0.0
+819,In stock,Derrumbes,Derrumbes San Luis Potosi Mezcal,88.8,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+820,In stock,Derrumbes,Derrumbes Michoacan Mezcal,89.2,Mexico,Tequila,3.5 lbs,94.99,94.99,0.0,0.0
+821,In stock,Derrumbes,Derrumbes Oaxaca Mezcal,92.4,Mexico,Tequila,3.5 lbs,79.95,79.95,0.0,0.0
+822,In stock,Bozal,Bozal Cuixe Single Maguey Mezcal 750ml,94.0,Mexico,Tequila,3.5 lbs,79.95,79.95,0.0,0.0
+823,In stock,Bozal,Bozal Pechuga Sacrificio Mezcal 750ml,93.8,Mexico,Tequila,3.5 lbs,109.95,109.95,0.0,0.0
+824,In stock,Bozal,Bozal Ensamble Mezcal 750ml,94.0,Mexico,Tequila,3.5 lbs,59.95,59.95,0.0,0.0
+825,In stock,Lagavulin,Lagavulin 8 Year Old Scotch Whiskey,96.0,Scotland,Scotch,3.5 lbs,59.95,59.95,0.0,0.0
+826,In stock,Lagavulin,Lagavulin 12 Year Old Scotch Whiskey,113.0,Scotland,Scotch,3.5 lbs,169.95,169.95,0.0,0.0
+827,In stock,Balvenie,The Balvenie Single Barrel 15 Year Scotch Whiskey 750ml,95.6,Scotland,Whiskey,3.5 lbs,149.99,149.99,0.0,0.0
+829,Only 3 left in stock,Kurayoshi,Kurayoski 12 Year Malt Japanese Whiskey 750ml,92.0,Japan,Whiskey,3.5 lbs,99.95,99.95,0.0,0.0
+830,Only 1 left in stock,Balvenie,The Balvenie Peat Week 14 Year Whiskey 750ml,96.6,Scotland,Whiskey,3.5 lbs,119.99,119.99,0.0,0.0
+831,In stock,Kikori,Kikori Ten Limited Edition Japanese Whiskey 750ml,82.4,Japan,Whiskey,4 lbs,399.95,399.95,0.0,0.0
+832,In stock,Octomore,Octomore 09.3 Dialogos Scotch Whiskey 750ml,125.8,Scotland,Scotch,3.5 lbs,249.95,249.95,0.0,0.0
+833,Only 1 left in stock,Glenmorangie,Glenmorangie Signet Scotch Whiskey 750ml,92.0,Scotland,Scotch,3.5 lbs,269.95,269.95,0.0,0.0
+834,Only 1 left in stock,Balvenie,The Balvenie Single Barrel Single Malt Scotch Whiskey 25 Year 750ml,95.2,Scotland,Scotch,3.5 lbs,749.99,749.99,0.0,0.0
+835,In stock,Ardbeg,Ardbeg 10 Year Old with Mini bottle Quadrant Gift Pack,114.2,Scotland,Scotch,5 lbs,64.99,64.99,0.0,0.0
+837,Out of stock,Sazerac,Sazerac 18 Year Rye Whiskey 2018 750ml,90.0,America,Whiskey,3.5 lbs,999.95,999.95,0.0,0.0
+838,In stock,Young & Yonder Spirits,Stave Robber Ryed Bourbon 750ml,82.5,America,Whiskey,3.5 lbs,47.95,47.95,0.0,0.0
+839,In stock,Young & Yonder Spirits,H.O.B.S. Gin 750ml,100.0,America,Gin,3.5 lbs,37.95,37.95,0.0,0.0
+840,In stock,Young & Yonder Spirits,Distiller’s Series Lime Vodka 750ml,70.0,America,Vodka,3.5 lbs,34.95,34.95,0.0,0.0
+841,In stock,Aberlour,Aberlour 18 Year Scotch Smalt Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,134.95,134.95,0.0,0.0
+842,In stock,Glenlivet,Glenlivet Nadurra Olorro Scotch Whiskey 750ml,86.0,Speyside,Scotch,3.5 lbs,99.95,99.95,0.0,0.0
+845,In stock,Redemption,Redemption Rye Whiskey 750ml,84.0,America,Whiskey,3.5 lbs,29.99,29.99,0.0,0.0
+846,In stock,High West,High West Rendezvous Rye 750ml,92.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+847,In stock,Casa Noble,Casa Noble Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,49.95,49.95,0.0,0.0
+848,In stock,Sugerlands Shine,Sugarlands Shine Pumpkin Spice Latte Sippin Cream 750ml,40.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+849,Only 2 left in stock,High West,High West Western Oat Silver Whiskey 750ml,80.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+851,In stock,Glenfarclas,Glenfarclas Highland Single Malt Scotch Whiskey 10 Year 750ml,105.0,Scotland,Whiskey,3.5 lbs,49.99,49.99,0.0,0.0
+852,In stock,Sugerlands Shine,Sugarlands Shine Blockaders Blackberry Moonshine 750ml,40.0,America,Moonshine,3.5 lbs,19.95,19.95,0.0,0.0
+853,Only 2 left in stock,Glenfarclas,Glenfarclas Highland Single Malt Scotch Whiskey 750ml,86.0,Scotland,Whiskey,3.5 lbs,179.95,179.95,0.0,0.0
+854,In stock,Los Azulejos,Los Azulejos Happy Holidays Anejo Tequila Half Gallon,80.0,Mexico,Tequila,5 lbs,119.95,119.95,0.0,0.0
+855,Only 2 left in stock,Glenfiddich,Glenfiddich Winter Storm 21 Year Batch 2 Scotch Whiskey,86.0,Scotland,Scotch,3.5 lbs,399.95,399.95,0.0,0.0
+856,In stock,Glen Grant,Glen Grant 18 Year Single Malt Scotch Whiskey 750ml,40.0,Scotland,Whiskey,3.5 lbs,149.99,139.95,10.04000000000002,0.06693779585305701
+857,In stock,Redemption,Redemption High Rye Bourbon 750ml,92.0,America,Whiskey,3.5 lbs,29.99,29.99,0.0,0.0
+860,Only 3 left in stock,Westland,Westland American Oak Single Malt Whiskey 750ml,92.0,America,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+861,Only 1 left in stock,Kurayoshi,Kurayoshi Sherry Cask Whiskey 750ml,92.0,Japan,Whiskey,3.5 lbs,159.99,159.99,0.0,0.0
+862,Only 1 left in stock,kilochoman,Kilchoman Machir Bay Whiskey 750ml,92.0,Japan,Whiskey,3.5 lbs,109.99,109.99,0.0,0.0
+863,Only 1 left in stock,kilochoman,Kilchoman Sanaig Whiskey 750ml,92.0,Japan,Whiskey,3.5 lbs,79.99,79.99,0.0,0.0
+864,In stock,Flor De Caña,Flor De Caña 4 Year Añejo Oro 750ml,80.0,Nicaragua,Rum,3.5 lbs,22.99,22.99,0.0,0.0
+866,In stock,New Zealand Whiskey Collection,New Zealand Whiskey Collection High Wheeler 21 Year 375ml,96.0,New Zealand,Whiskey,3.5 lbs,99.99,99.99,0.0,0.0
+867,In stock,Denizen,Denizen Aged White Rum 750 ml,80.0,Amsterdam,Rum,3.5 lbs,19.95,19.95,0.0,0.0
+868,In stock,Cruzan,Cruzan 151 Rum 750ml,151.0,St. Croix,Rum,3.5 lbs,23.95,23.95,0.0,0.0
+869,In stock,Yacht Club,Yacht Club Vodka 750ml,80.0,France,Vodka,3.5 lbs,49.95,18.95,31.000000000000004,0.6206206206206206
+870,In stock,Copper and Kings,Copper and Kings Butchertown Brandy 750ml,124.0,United States,Brandy,3.5 lbs,69.95,69.95,0.0,0.0
+871,In stock,Ron Centenario,Ron Centenario Gran Legado 12 750ml,80.0,Costa Rica,Rum,3.5 lbs,49.95,49.95,0.0,0.0
+872,In stock,Jugando Spirits,Jugando Spirits White Rum Drinking Game Kit 750ml,80.0,Mexico,Rum,3.5 lbs,44.95,44.95,0.0,0.0
+873,Only 3 left in stock,Cutwater Spirits,Cutwater Spirits Bali Hai Tiki Gold 750ml,80.0,United States,Rum,3.5 lbs,29.95,29.95,0.0,0.0
+874,Only 1 left in stock,Kurayoshi,Kurayoshi 18 Year Malt Whiskey 750ml,100.0,Japan,Whiskey,3.5 lbs,249.95,249.95,0.0,0.0
+875,Only 3 left in stock,Kurayoshi,Kurayoshi Malt 8 Year Whiskey 750ml,92.0,Japan,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+876,Only 3 left in stock,Jeffersons,Jefferson’s Grand Selection Chateau Suduiraut Sauterners Cask Finish 750ml,90.0,America,Whiskey,3.5 lbs,149.95,149.95,0.0,0.0
+877,In stock,Diplomatico,Diplomatico Planas Rum 750ml,94.0,Venezuela,Rum,3.5 lbs,42.95,42.95,0.0,0.0
+878,In stock,Westward,Westward American Single Malt Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,59.95,59.95,0.0,0.0
+879,In stock,Jugando Spirits,Jugando Spirits Tequila Gold Drinking Game Kit 750ml,80.0,Mexico,Tequila,3.5 lbs,44.95,44.95,0.0,0.0
+880,Only 2 left in stock,Compass Box,Compass Box Delilahs XXV Scotch Whiskey 750ml,92.0,Scotland,Scotch,3.5 lbs,129.95,129.95,0.0,0.0
+881,In stock,Compass Box,Compass Box Oak Cross Blended Malt Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,59.95,59.95,0.0,0.0
+882,In stock,Kirk and Sweeney,Kirk and Sweeney 12 Year 750ml,80.0,Dominican Republic,Rum,3.5 lbs,45.95,45.95,0.0,0.0
+883,In stock,Kirk and Sweeney,Kirk and Sweeney 18 Year 750ml,80.0,Dominican Republic,Rum,3.5 lbs,63.95,63.95,0.0,0.0
+884,In stock,Kirk and Sweeney,Kirk and Sweeney 23 Year 750ml,80.0,Dominican Republic,Rum,3.5 lbs,69.95,69.95,0.0,0.0
+885,In stock,Sugerlands Shine,Sugarlands Shine Dark Chocolate Coffee Cream Liqueur 750ml,70.0,America,Liqueur,3.5 lbs,19.95,19.95,0.0,0.0
+888,In stock,Olmeca Altos,Olmeca Altos Tequila Reposado 750ml,80.0,Mexico,Tequila,3.5 lbs,19.95,19.95,0.0,0.0
+889,In stock,Avion,Avion Tequila Mexico Reserva 44 750ml,80.0,Mexico,Tequila,3.5 lbs,124.95,124.95,0.0,0.0
+890,In stock,Avion,Avion Anejo Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,47.95,47.95,0.0,0.0
+891,In stock,Avion,Avion Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,44.95,44.95,0.0,0.0
+892,In stock,Avion,Avion Silver Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,42.95,42.95,0.0,0.0
+893,In stock,El Dorado Rum,El Dorado 3 Year Old Cask Aged 750ml,80.0,Guyana,Rum,3.5 lbs,49.95,49.95,0.0,0.0
+894,In stock,Copper and Kings,Copper and Kings Floodwall Apple Brandy 750ml,100.0,America,Brandy,3.5 lbs,49.95,49.95,0.0,0.0
+895,In stock,Copper and Kings,Copper and Kings Immature Brandy 750ml,90.0,America,Brandy,3.5 lbs,35.95,35.95,0.0,0.0
+896,In stock,Sailor Jerry,Sailor Jerry Spiced Rum 750ml,92.0,United States,Rum,3.5 lbs,15.95,15.95,0.0,0.0
+897,In stock,Singani 63,Singani 63 by Steven Soderbergh 750ml,80.0,Bolivia,Brandy,3.5 lbs,39.95,39.95,0.0,0.0
+898,Only 1 left in stock,Patron Tequila,Patron X Guillermo Del Toro Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,499.95,499.95,0.0,0.0
+899,In stock,Chinaco Tequila,Chinaco Tequila Reposado 750ml,80.0,Mexico,Tequila,3.5 lbs,59.95,59.95,0.0,0.0
+900,In stock,Chinaco Tequila,Chinaco Tequila Anejo 750ml,80.0,Mexico,Tequila,3.5 lbs,69.95,69.95,0.0,0.0
+901,In stock,Australian Bitters Company,Australian Bitters Company – Grapefruit Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+902,In stock,Australian Bitters Company,Australian Bitters Company Aromatic Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+903,In stock,Australian Bitters Company,Australian Bitters Company Smoke Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+904,In stock,Australian Bitters Company,Australian Bitters Company Barrel Spice Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+905,In stock,Australian Bitters Company,Australian Bitters Company Chocolate Bitters 4oz,90.0,Australia,Bitters,1 lbs,12.95,12.95,0.0,0.0
+906,In stock,Smooth Ambler,Smooth Ambler Contradiction Bourbon Whiskey 750ml,100.0,America,Whiskey,3.5 lbs,39.95,39.95,0.0,0.0
+907,In stock,The Real McCoy,The Real McCoy 3 Year Single Blended Rum 750ml,80.0,Barabados,Rum,3.5 lbs,23.95,23.95,0.0,0.0
+908,In stock,Clairin Sajous,Clairin Sajous Rum 750ml,107.0,Haiti,Rum,3.5 lbs,45.95,45.95,0.0,0.0
+909,In stock,Heaven's Door,Heavens Door Straight Rye Whiskey 750ml,92.0,America,Whiskey,3.5 lbs,94.95,94.95,0.0,0.0
+910,In stock,Fortaleza,Fortaleza Reposado Tequila 750ml,80.0,Mexico,Tequila,3.5 lbs,48.95,48.95,0.0,0.0
+911,In stock,Oban,Oban Distillers Edition Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,149.95,149.95,0.0,0.0
+912,In stock,Oban,Oban 18 Year Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,149.95,149.95,0.0,0.0
+913,In stock,Jura,Jura 10 Year Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,59.95,59.95,0.0,0.0
+914,In stock,Jura,Jura Seven Wood Scotch Whiskey 750ml,84.0,Scotland,Scotch,3.5 lbs,89.95,89.95,0.0,0.0
+915,Only 1 left in stock,Dalmore,Dalmore 25 Year Scotch Whiskey 750ml,88.0,Scotland,Scotch,3.5 lbs,1499.95,1399.95,100.0,0.06666888896296543
+916,In stock,Jura,Jura 18 Year Scotch Whiskey 750ml,88.0,Scotland,Scotch,3.5 lbs,139.95,139.95,0.0,0.0
+917,In stock,Dalmore,Dalmore 18 Year Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,219.95,219.95,0.0,0.0
+918,In stock,Dalmore,Dalmore 15 Year Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,128.95,128.95,0.0,0.0
+919,In stock,Dalmore,Dalmore 12 Year Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,66.95,66.95,0.0,0.0
+920,In stock,Partida,Tequila Partida Anejo 750ml,80.0,Mexico,Tequila,3.5 lbs,59.95,47.95,12.0,0.2001668056713928
+921,In stock,Glenlivet,Glenlivet Founders Reserve Single Malt Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,39.95,39.95,0.0,0.0
+922,In stock,Glenfiddich,Glenfiddich 15 Year Old Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,64.95,64.95,0.0,0.0
+923,In stock,Glenfiddich,Glenfiddich 12 Year Old Scotch Whiskey 750ml,80.0,Scotland,Scotch,3.5 lbs,44.95,44.95,0.0,0.0
+924,In stock,Jameson,Jameson Blenders Dog Whiskey 750ml,86.0,Ireland,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+925,In stock,Great King,Compass Box Great King Blended Scotch Whiskey 750ml,86.0,Scotland,Scotch,3.5 lbs,39.95,39.95,0.0,0.0
+926,In stock,Highland Park,Highland Park Valkyrie Scotch Whiskey 750ml,91.8,Scotland,Scotch,3.5 lbs,89.95,89.95,0.0,0.0
+928,In stock,Highland Park,Highland Park Full Volume Scotch Whiskey 750ml,94.4,Scotland,Scotch,3.5 lbs,117.95,117.95,0.0,0.0
+929,Only 1 left in stock,Highland Park,Highland Park The Dark Single Malt Scotch Whiskey 750ml,105.8,Scotland,Scotch,3.5 lbs,299.95,299.95,0.0,0.0
+930,In stock,Macallan,Macallan 12 Years Sherry Oak Scotch 750ml,86.0,Scotland,Scotch,3.5 lbs,69.95,69.95,0.0,0.0
+932,In stock,Knob Creek,Knob Creek Smoked Maple Bourbon Whiskey 750ml,90.0,America,Whiskey,3.5 lbs,29.95,29.95,0.0,0.0
+933,Only 3 left in stock,Kavalan,Kavalan Oloroso Sherry Oak Single Malt Whiskey 750ml,92.0,Taiwan,Whiskey,3.5 lbs,199.95,169.99,29.95999999999998,0.1498374593648411
+934,In stock,Kavalan,Kavalan Ex-Bourbon Oak Whiskey 750ml,92.0,Taiwan,Whiskey,3.5 lbs,139.95,139.95,0.0,0.0
+936,In stock,Nikka,Nikka Coffey Grain Whiskey 750ml,90.0,Japan,Whiskey,3.5 lbs,79.95,79.95,0.0,0.0
+937,Only 1 left in stock,"Hakushu, Suntory",Hakushu 12 Year Old Japanese Whiskey 750ml,86.0,Japan,Whiskey,3.5 lbs,199.95,199.95,0.0,0.0
+1012,In stock,Bruichladdich,Bruichladdich The Classic Laddie Scotch Whiskey 750ml,100.0,Scotland,Scotch,3.5 lbs,75.95,75.95,0.0,0.0
