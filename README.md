@@ -1,7 +1,7 @@
 # Data-Processing-in-Python_project
 
 Authors: Edgar Robles Diaz, Mirko Forgetta
-The purpose of the following project is to get some information from the web site https://uptownspirits.com/. It is an online shop selling alcohol items.
+The definitive script is the file called "Project". Its purpose to get some information from the web site https://uptownspirits.com/. It is an online shop selling alcohol items.
 
 The Notebook is arranged as following:
 
