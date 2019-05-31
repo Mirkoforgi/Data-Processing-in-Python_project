@@ -1,2 +1,10 @@
 # Data-Processing-in-Python_project
-Hello Edgar. I'm trying to learn how GIT works and I created this repository. We can start to use it for our project :)
+
+Authors: Edgar Robles Diaz, Mirko Forgetta
+The purpose of the following project is to get some information from the web site https://uptownspirits.com/. It is an online shop selling alcohol items.
+
+The Notebook is arranged as following:
+
+Scraping (of the web-page);
+Cleaning (of the dataset);
+Information and plots (from the dataset).
