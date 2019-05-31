@@ -2,10 +2,8 @@
 
 Authors: Edgar Robles Diaz, Mirko Forgetta
 
-The definitive script is the file called "Project". Its purpose to get some information from the web site https://uptownspirits.com/. It is an online shop selling alcohol items.
+The definitive script is the file called "Project". 
 
-The Notebook is arranged as following:
+Its purpose is to get some information from the web site https://uptownspirits.com/. It is an online shop selling alcohol items.
 
-Scraping (of the web-page);
-Cleaning (of the dataset);
-Information and plots (from the dataset).
+The Notebook is arranged as following: Scraping (of the web-page), Cleaning (of the dataset) and Information and plots (from the dataset).
